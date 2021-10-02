@@ -1,0 +1,48 @@
+doctype html
+html
+    head
+        meta(name="viewport" content="width=device-width, initial-scale=1.0")
+
+        meta(name="mobile-web-app-capable" content="yes")
+        meta(name="apple-mobile-web-app-capable" content="yes")
+        meta(name="application-name" content="Vexillopedia")
+        meta(name="apple-mobile-web-app-title" content="Vexillopedia")
+        meta(name="theme-color" content="darkblue")
+        meta(name="msapplication-navbutton-color" content="darkblue")
+        meta(name="apple-mobile-web-app-status-bar-style" content="black-translucent")
+        meta(name="msapplication-starturl" content="/")
+
+        link(rel="manifest" href="/manifest.json")
+
+        link(rel="stylesheet" href="/css/global.css")
+
+        block head
+
+    body
+        header.header
+            span.menu-icon
+                a.random-flag(href="/random")
+                    img(src="/img/icon/random.png" alt="Random Flag")
+                a.contribute(href="/contribute" target="_blank")
+                    img(src="/img/icon/contribute.png" alt="Contribute")
+
+            h1.title
+                a(href="/") Vexillopedia
+
+        block body
+
+        script.
+            if ("serviceWorker" in navigator) {
+                navigator.serviceWorker.register("/service-worker.js", {
+                    scope: "/"
+                }).then((reg) => console.log(`Registration succeeded.`))
+            }
+
+        script.
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-53881643-4', 'auto');
+            ga('send', 'pageview');

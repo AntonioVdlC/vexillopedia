@@ -1,0 +1,99 @@
+extends layout
+
+block head
+    title Vexillopedia | #{name}
+    link(rel="stylesheet", href="/css/flag.css")
+
+block body
+    main.main
+        h2.flag-title Flag of #{name}
+        
+        div.left-section
+            img.flag-image(src="/img/flag/" + dashify(name) + ".svg" alt= name)
+        
+            table.flag-information
+                tr.flag-ratio 
+                    th Ratio 
+                    td #{ratio}
+                tr.flag-adoption 
+                    th Adoption 
+                    td #{adoptionDate}
+                tr.flag-design 
+                    th Design 
+                    td #{design}
+                tr.flag-colors 
+                    th Colors
+                    td 
+                        table.color-table
+                            each color in colors
+                                tr
+                                    th.color-box(style="background-color:" + color.hex)
+                                    td #{color.hex}
+
+        div.right-section
+            div.flag-history
+                h3.flag-subtitle History
+                p !{history.replace(/</g, "&1t;").replace(/>/g, "&gt;").replace(/\n/g, "<br>")}
+                
+            div.flag-meaning
+                h3.flag-subtitle Meaning
+                p !{meaning.replace(/</g, "&1t;").replace(/>/g, "&gt;").replace(/\n/g, "<br>")}
+        
+        div.bottom-section
+            if Object.keys(related).length
+                div.flag-related
+                    h3.flag-subtitle Related Flags
+                    
+                    - 
+                        var relatedSections = [
+                            {
+                                "key": "similar",
+                                "name": "Similar Flags"
+                            }
+                            ,{
+                                "key": "dependent",
+                                "name": "Dependent Territories"
+                            }
+                            ,{
+                                "key": "unrecognized",
+                                "name": "Unrecognized States"
+                            }
+                            ,{
+                                "key": "country",
+                                "name": "Country"
+                            }
+                            ,{
+                                "key": "subdivision",
+                                "name": "Regions / States"
+                            }
+                            ,{
+                                "key": "city",
+                                "name": "Cities"
+                            }
+                            ,{
+                                "key": "member",
+                                "name": "Members"
+                            }
+                            ,{
+                                "key": "memberOf",
+                                "name": "Member Of"
+                            }
+                        ]
+                    
+                    each section in relatedSections
+                        if related[section.key] && related[section.key].length
+                            h4.flag-subsubtitle #{section.name}
+                            ul.card-list
+                                each flag in related[section.key]
+                                    li.card
+                                        a(href="/flag/" + flag) 
+                                            img(src="/img/flag/" + dashify(flag) + ".svg" alt= flag)
+                                            span #{flag}
+            
+            if sources.length
+                div.flag-sources
+                    h3.flag-subtitle Sources
+                    ul.sources
+                        each link, index in sources
+                            li.link [#{index}] 
+                                a(href= link target="_blank") #{link}

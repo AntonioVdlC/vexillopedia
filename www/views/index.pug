@@ -1,0 +1,34 @@
+extends layout
+
+block head
+    title Vexillopedia | The flag encyclopedia
+    link(rel="stylesheet", href="/css/index.css")
+    script(defer src="/js/index.js")
+
+block body
+    main.main
+        div.welcome
+            h3.welcome-title Welcome to Vexillopedia, the flag encyclopedia!
+        
+        div.search
+            h2.section-title 
+                span#search-text(class="hidden") Search Flags
+                span#select-text Select a Flag
+            input#search-flag.search-input(class="hidden" aria-label="Search a Flag")
+            ul.card-list
+                each flag in flags
+                    li.card
+                        a(href="/flag/" + flag) 
+                            img(src="/img/flag/" + dashify(flag) + ".svg" alt= flag)
+                            span #{flag}
+        
+        p.or -or-
+        
+        div.categories
+            h2.section-title Browse Categories
+            ul.card-list
+                each category in categories
+                    li.card
+                        a(href="/category/" + category) 
+                            img(src="/img/category/" + dashify(category) + ".png" alt= category)
+                            span #{category}

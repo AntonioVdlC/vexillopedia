@@ -1,0 +1,16 @@
+extends layout
+
+block head
+    title Vexillopedia | #{name}
+    link(rel="stylesheet", href="/css/category.css")
+
+block body
+    main.main
+        h2.category-title #{name}
+        
+        ul.card-list
+            each flag in flags
+                li.card
+                    a(href="/flag/" + flag) 
+                        img(src="/img/flag/" + dashify(flag) + ".svg" alt= flag)
+                        span #{flag}

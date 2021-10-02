@@ -1,0 +1,45 @@
+{
+  "name": "vexillopedia",
+  "version": "1.0.0",
+  "description": "The flag encyclopedia",
+  "main": "index.js",
+  "scripts": {
+    "precommit": "lint-staged",
+    "dev": "nodemon index.js",
+    "coverage:check": "istanbul check-coverage --statements 100 --branches 100 --functions 100 --lines 100",
+    "coverage:report": "cat ./coverage/lcov.info | codecov",
+    "start": "forever index.js",
+    "test": "istanbul cover -x *.test.js _mocha -- ./**/**/*.test.js && npm run coverage:check"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AntonioVdlC/vexillopedia.git"
+  },
+  "keywords": [],
+  "author": "Antonio Villagra De La Cruz <antonio.villagra.de.la.cruz@gmail.com> (http://antoniovdlc.me/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AntonioVdlC/vexillopedia/issues"
+  },
+  "engines": {
+    "node": "6.11.1"
+  },
+  "dependencies": {
+    "express": "^4.13.4",
+    "forever": "^0.15.2",
+    "node-fetch": "^1.5.1",
+    "pug": "^2.0.0-alpha6",
+    "unique-random-array": "^1.0.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-http": "^3.0.0",
+    "codecov.io": "^0.1.6",
+    "husky": "^0.14.3",
+    "istanbul": "0.4.4",
+    "lint-staged": "^4.2.3",
+    "mocha": "^2.5.3",
+    "nodemon": "^1.9.1",
+    "prettier": "^1.7.4"
+  }
+}

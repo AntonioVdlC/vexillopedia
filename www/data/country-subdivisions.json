@@ -1,0 +1,3099 @@
+[
+    {
+        "name": "Brussels-Capital Region",
+        "category": "Country Subdivisions",
+        "history": "The first flag was adopted by the Capital Region in 1991. A new flag based on the city's current logo became official in early 2015. [0]",
+        "meaning": "The yellow iris, an Iris pseudacorus, as a symbol for Brussels dates back to before 1924 with Cornette writing that the flower was chosen to represent the city as it could be found growing in the marshes – the city itself was founded on marshy ground on Saint-Géry Island – today even through the expansion and industrialisation of the city.\n\nThe plant used to surround the city walls and, according to legend, gave a key victory to the Dukes of Brabant: knowing the plant could only grow in shallow water, the Duke's troops could gallop through the flooded plains by keeping to the iris covered areas. His opponents however, seeing them crossing but not knowing of the iris, attempted to cross but got bogged down in the marshes.\n\nThe flower also featured on the sceptre of the descendants of Charlemagne. This included Charles of France, who set up a fortified camp in the area, in the Duchy of Lower Lotharingia, and chose the site as the capital. This is considered the foundation of Brussels. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#0900BD"
+            },{
+                "name": "yellow",
+                "hex": "#FFF202"
+            },{
+                "name": "grey",
+                "hex": "#B9B9BC"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A stylised iris upon a blue field. [0]",
+        "adoptionDate": 2015,
+        "related": {
+            "country": [
+                "Belgium"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_the_Brussels-Capital_Region"
+        ]
+    },{
+        "name": "Flanders",
+        "category": "Country Subdivisions",
+        "history": "The flag was officially adopted by the Cultural Council for the Dutch Cultural Community (Cultuurraad voor de Nederlandse Cultuurgemeenschap) in 1973, and later, in 1985, by its successor, the Flemish Parliament. In 1990, also the coat of arms was adopted as an official symbol. [0]",
+        "meaning": "The choice of the Flemish lion was primarily based on the popular historical novel De leeuw van Vlaanderen (1838) of Hendrik Conscience, that forged the Battle of the Golden Spurs of 11 July 1302 into an icon of Flemish resistance against foreign oppression. It was enhanced even further when Hippoliet van Peene wrote the anthem De Vlaamse Leeuw in 1847. By the late nineteenth century it was customary for supporters of the Flemish movement to fly the Flemish lion on 11 July. [1]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "yellow",
+                "hex": "#FEEA28"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            },{
+                "name": "red",
+                "hex": "#FF0000"
+            }
+        ],
+        "design": "A yellow field charged with the Flemish coat of arms in the center.",
+        "adoptionDate": 1973,
+        "related": {
+            "country": [
+                "Belgium"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Flanders",
+            "https://en.wikipedia.org/wiki/Coat_of_arms_of_Flanders"
+        ]
+    },{
+        "name": "Wallonia",
+        "category": "Country Subdivisions",
+        "history": "The flag was created in 1913, based on a painting by Pierre Paulus.\n\nOn 3 July 1991, the French Community adopted by decree the Walloon Flag as its symbol, confirming an older decree from the former French Cultural Community of Belgium on 20 July 1975.\n\nOn 15 July 1998, the Walloon Flag was officially recognised as the Flag of Wallonia by the Walloon Region. [0]",
+        "meaning": "The roster is the emblem of Wallonia and of the French Community of Belgium. The colors red and yellow come from the city of Liège. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "yellow",
+                "hex": "#FFFF00"
+            },{
+                "name": "red",
+                "hex": "#FF0000"
+            }
+        ],
+        "design": "It features a red bold rooster, bold meaning its right leg is lifted and its mouth is closed, on a yellow background. [0]",
+        "adoptionDate": 1998,
+        "related": {
+            "country": [
+                "Belgium"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Wallonia"
+        ]
+    },{
+        "name": "Andalusia",
+        "category": "Country Subdivisions",
+        "history": "The current flag of Andalusia was adopted in 1918. Blas Infante (1885-1936), the \"Father\" of the Andalusian Fatherland, initiated an assembly at Ronda in 1918. This assembly adopted a charter based on the Antequera Constitution (a nationalist Andalusian charter that styled Andalusia as an autonomous republic inside a Spanish federal state; this constitution is known as Constitución Federal de Antequera) and also adopted the current flag of Andalusia and coat of arms as \"national symbols\". [0]",
+        "meaning": "The colours of Andalusian flag, green and white, represent hope and peace.\n\nThe coat of arms bears the Pillars of Hercules, the ancient name given to the promontories that flank the entrance to the Strait of Gibraltar and bears the following legend: \"ANDALUCÍA POR SÍ, PARA ESPAÑA Y LA HUMANIDAD\" (Andalusia by herself, for Spain and for Humankind). [0][1]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "green",
+                "hex": "#006633"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "Horizontal green-white-green triband charged with the coat of arms.",
+        "adoptionDate": 1918,
+        "related": {
+            "country": [
+                "Spain"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Andalusia",
+            "https://en.wikipedia.org/wiki/Coat_of_arms_of_Andalusia"
+        ]
+    },{
+        "name": "Aragon",
+        "category": "Country Subdivisions",
+        "history": "The current Coat of arms of Aragon was first documented in 1499. Its fourth quarter, the Coat of arms of the Crown of Aragon, features on the Coat of Arms of Spain, as well as the flags and heraldry of several territories in Spain and abroad which were ruled by the Crown of Aragon, such as Catalonia, the Balearic Islands and Languedoc-Roussillon. The flag of modern Aragon, adopted in 1983, has the arms over the Crown arms. [0]",
+        "meaning": "The Coat of arms of the Spanish Autonomous Community of Aragon was first chronicled in 1499 by Pablo Hurus. The first quarter represents the legendary Kingdom of Sobrarbe and the establishment of Aragonese liberty. The second, the Cross of Íñigo Arista, represents the Pyrenees and the monarchy. The third has the St George's Cross, with four severed Moors' heads to represent the conquest as Aragon extended into the plains, with tradition stating that the saint helped the Aragonese in the battle. The fourth quarter has the pallets, representing the union of Aragon to the Counties of Catalonia to create the Crown of Aragon, of which they are the coat of arms. The third quarter is inspired by the coat of arms and flag of Sardinia. Aragon ruled Sardinia from in the 14th and 15th centuries. The forth represents the bars of Aragon, that are the basis of the flag and that historically represented the King of the Crown of Aragon. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "yellow",
+                "hex": "#FCDD09"
+            },{
+                "name": "red",
+                "hex": "#DA121A"
+            }
+        ],
+        "design": "Four horizontal red stripes on a golden background, charged with the coat of arms of Aragon. [0]",
+        "adoptionDate": 1983,
+        "related": {
+            "country": [
+                "Spain"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Aragon"
+        ]
+    },{
+        "name": "Asturias",
+        "category": "Country Subdivisions",
+        "history": "According to the tradition, this Cross was carried by Don Pelayo (later King Pelayo), in the decisive Battle of Covadonga against the Moors in 722. This battle, fought in the mountains of Asturias, was hailed by 19th and 20th century historiography as the start of the \"Reconquista\" or Re-conquest of Iberia from \"Moorish domination.\" However, there is no historical evidence that Pelayo used exactly this same cross.\n\nIn 908 the Asturian King Alfonso III the Great ordered that the original wooden -oak- cross be clad in gold and precious stones. It is now kept in this form in the Cathedral of Oviedo. [0]",
+        "meaning": "The Greek letters Alpha and omega hang from its horizontal axis. This is a direct reference to the Book of Revelation 1:8, 'I am the Alpha and the Omega, the beginning and the end, says the Lord God, who is, and who was, and who is to come, the Almighty.' [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#0066FF"
+            },{
+                "name": "yellow",
+                "hex": "#F7D417"
+            }
+        ],
+        "design": "The flag of Asturias shows the \"Cruz de la Victoria\" (Victory Cross) in gold over a blue field. [0]",
+        "adoptionDate": 1990,
+        "related": {
+            "country": [
+                "Spain"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Asturias"
+        ]
+    },{
+        "name": "Balearic Islands",
+        "category": "Country Subdivisions",
+        "history": "The flag of the Balearic Islands is the official flag of the Balearic Islands, an autonomous community of Spain located in the western Mediterranean Sea. The flag, which was adopted in 1983, incorporates the design of the Senyera. [0]",
+        "meaning": "The Senyera represents the old Kingdom of Aragon and the castle on the canton represents the old Kingdom of Mallorca. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "yellow",
+                "hex": "#FCDD09"
+            },{
+                "name": "red",
+                "hex": "#DA121A"
+            },{
+                "name": "purple",
+                "hex": "#40104C"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "Four horizontal red stripes on a golden background with the coat of arms in the canton. [0]",
+        "adoptionDate": 1983,
+        "related": {
+            "country": [
+                "Spain"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_the_Balearic_Islands"
+        ]
+    },{
+        "name": "Basque Country",
+        "category": "Country Subdivisions",
+        "history": "The flag was designed in 1894 to represent the province of Biscay in a set of one flag for each of the seven Basque provinces and one for the whole country; however, since PNV activity was scarce outside of Biscay, only the Biscayne flag was publicly recognized. It was hoisted for the first time in the \"Euzkeldun Batzokija\", the club that preceded EAJ-PNV. The party adopted it in 1895 and, in 1933, proposed it as the flag of the whole Basque Country.\n\nSince the Basque people had accepted the \"ikurriña\", at the suggestion of the socialist counselor Aznar, the Basque Government adopted it as the flag of the Basque Autonomous Region in 1936. This flag was used as the Naval jack of the Basque Auxiliary Navy, a section of the Spanish Republican Navy operating in the Bay of Biscay during the Spanish Civil War.\n\nIn 1938, after the military defeat of the Basque Government the regime of General Franco prohibited this flag —although it continued to be used in the Basque departements of France. In the following decades it became a symbol of defiance – the first actions of the clandestine group ETA involved placing flags in public places.\n\nThe Basque flag was legalized again in 1977 during the Spanish transition to democracy. Two years later, the Basque Government adopted it as the flag of the Basque autonomous community. It is also used as an unofficial flag for some sectors of Basque society in other provinces. [0]",
+        "meaning": "The red ground symbolizes the Biscayan people (the race); the green saltire might represent the Oak of Guernica, a symbol of the old laws of Biscay, or Fueros; and over them, the white cross, God's symbol of Basque Catholic devotion. Thus, red, white and green have become the national Basque colors. [0]",
+        "ratio": "14:25",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#D52B1E"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "green",
+                "hex": "#009B48"
+            }
+        ],
+        "design": "A white cross over a green saltire on a red field. [0]",
+        "adoptionDate": 1978,
+        "related": {
+            "country": [
+                "Spain"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Basque_Country_(autonomous_community)"
+        ]
+    },{
+        "name": "Canary Islands",
+        "category": "Country Subdivisions",
+        "history": "The tricolour flag has its origins in the Canarias Libre movement of the 1960s. It was designed by Carmen Sarmiento and her sons Arturo and Jesus Cantero Sarmiento, and first displayed (in paper form) on 8 September 1961. [0]",
+        "meaning": "It combined the blue and white colours of the Province of Santa Cruz de Tenerife (Province of Canary Islands) with the blue and yellow colours of the Province of Las Palmas.\n\nThe coat of arms displays on top the Spanish royal crown. The seven gray islands represent the Canary Islands of volcanic origin in the Atlantic Ocean. The supporters are dogs from which the islands may derive their name, possibly from the Latin term Insularia Canaria, meaning Island of the Dogs, a name applied originally only to the island of Gran Canaria. It is thought that the dense population of an endemic breed of large and fierce dogs, like the Presa Canario, was the characteristic that most struck the few ancient Romans who established contact with the islands by the sea. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "blue",
+                "hex": "#0768A9"
+            },{
+                "name": "yellow",
+                "hex": "#FFCC00"
+            }
+        ],
+        "design": "A vertical tricolour of three equal bands of white, blue, and yellow. The state flag includes the Coat of arms of the Canary Islands in the central band. [0]",
+        "adoptionDate": 1982,
+        "related": {
+            "country": [
+                "Spain"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_the_Canary_Islands"
+        ]
+    },{
+        "name": "Cantabria",
+        "category": "Country Subdivisions",
+        "history": "The flag design is heir to the ship registration flag of the maritime province of Santander, assigned by Royal Order of July 30, 1845. [0]",
+        "meaning": "/",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#DA121A"
+            }
+        ],
+        "design": "Two horizontal bands of same width, white on top, red on the bottom. [0]",
+        "adoptionDate": 1984,
+        "related": {
+            "country": [
+                "Spain"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Cantabria"
+        ]
+    },{
+        "name": "Castile-La Mancha",
+        "category": "Country Subdivisions",
+        "history": "Seven different designs for a flag were proposed during the era of the \"pre-autonomous\" region. The selected design was that of Manchego heraldist Ramón José Maldonado. This was made official in Article 5 of the Statute of Autonomy. [0]",
+        "meaning": "/",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "crimson",
+                "hex": "#A21C1C"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "yellow",
+                "hex": "#FFCC00"
+            },{
+                "name": "blue",
+                "hex": "#1D4BBA"
+            }
+        ],
+        "design": "A rectangle divided vertically into two equal squares: the first, together with the mast, crimson red with a castle of Or masoned in sable and port and windows of azure; the second, white. [0]",
+        "adoptionDate": 1982,
+        "related": {
+            "country": [
+                "Spain"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Castilla-La_Mancha"
+        ]
+    },{
+        "name": "Castile and León",
+        "category": "Country Subdivisions",
+        "history": "The lion design is attributed to Alfonso VII of León, who became king of León and Castile in 1126. The castle symbol is attributed to his grandson Alfonso VIII of Castile, In 1230, Ferdinand III of Castile united the two kingdoms in the Crown of Castile (1230-1715) and quartered the arms as a symbol of the union. [0]",
+        "meaning": "This flag is used to represent the two cultural identities who share this administrative region, the Castle for Castile, and the Lion for León. [0]",
+        "ratio": "10:13",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#DA121A"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "purple",
+                "hex": "#742C64"
+            },{
+                "name": "yellow",
+                "hex": "#FFCC00"
+            },{
+                "name": "blue",
+                "hex": "#1D4BBA"
+            }
+        ],
+        "design": "It consists of the quartered coats of arms of Castile, represented by a castle, and León, represented by a lion. [0]",
+        "adoptionDate": 1983,
+        "related": {
+            "country": [
+                "Spain"
+            ],
+            "city": [
+                "Valladolid"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Castile_and_León"
+        ]
+    },{
+        "name": "Catalonia",
+        "category": "Country Subdivisions",
+        "history": "According to a 14th-century legend, the flag dates back from the 9th century, when the four red bars were drawn, as an act of gratitude, on Wilfred I the Hairy's (Count of Barcelona) golden shield by king Charles the Bald's fingers drenched with blood from the Count's war wounds prior to Wilfred's death in 897 during the siege of Barcelona by Lobo ibn Mohammed, the Moorish governor of Lleida. This legend would relate the emblem unambiguosly to the Counts of Barcelona title.\n\nRomantic-driven Catalan nationalists were particularly keen on this legend during the Renaixença, in the 19th century, albeit it has always been recognized and divulged as such even in patriotic circles. Charles the Bald had died 20 years earlier, in 877.Another version of this legend cites Louis the Pious as the king drawing the bars during the conquest of Barcelona, in this version drawing them in a golden shield, but Louis died before Guifré was born. Also, Barcelona was conquered long before the events described on the legend. Another medieval variant of the legend features Ramon Berenguer painting the bars with his own blood on a yellow shield, with the yellow field of the shield being the arms of Aragon before his marriage. [0]",
+        "meaning": "The bars of Aragon, that are the basis of the flag and that historically represented the King of the Crown of Aragon. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "yellow",
+                "hex": "#FCDD09"
+            },{
+                "name": "red",
+                "hex": "#DA121A"
+            }
+        ],
+        "design": "Four horizontal red stripes on a golden background. [0]",
+        "adoptionDate": 1933,
+        "related": {
+            "country": [
+                "Spain"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Catalonia"
+        ]
+    },{
+        "name": "Extremadura",
+        "category": "Country Subdivisions",
+        "history": "The flag first appeared in the middle of the 1970s, after the death of Francisco Franco, in an era when the rights of the regional communities were being reclaimed and re-established across Spain.\n\nDespite the flag’s relatively recent origins, various interpretations exist regarding why green, white, and black were chosen and what they signify; even the inventor or creator of the flag is unknown. What is known is that by the 1980s the flag had become so popular amongst Extremadurans as the principal symbol of regional identity that those who presented the Statute of Autonomy in 1983 did not hesitate in including an article concerning this flag in this Statute. [0]",
+        "meaning": "In official government publications, the colors of the flag are said to honor aspects of the region’s history during the Middle Ages: green representing the the emblem of the Order of Alcántara, white representing the Kingdom of León, which repopulated the region during the Reconquista and black representing the Aftasid kings of the Taifa of Badajoz.\n\nHowever, in 2008, in the regional press, a professor of history named Antonio Galache Cortés posited his own theory on the meaning of the flag’s colors. Galache Cortés believed that the color green referred to the Muslim era of Spain, in which Extremadura enjoyed its only period of complete independence as an Aftasid taifa. The color white referred to the Kingdom of León and the integration of the region into what would become Spain, while black was the color of the clothing worn by the Lusitanians, according to Strabo.\n\nGalache Cortés’ theory has been disputed. In a television interview, Luis Ramallo, president of the region before the era of autonomy, attributed the creation of the flag to a lawyer from Oliva de la Frontera, Martín Rodríguez Contreras. This theory was supported by professor of anthropology Javier Marcos Arévalo, who in his studies on Extremaduran identity states that Rodríguez Contreras’ design was chosen after various proposals and its colors were derived from the following: green and white from the traditional colors of Cáceres, and black and white from the colors of Badajoz.\n\nIn terms of symbolic meaning, the green symbolizes hope, the white honor of the people, the black to unemployment, marginalization, and backwardness, although it can also refer to the region’s Almohad past. Javier Marcos Arévalo adds that the flag first appears in the written record on February 27, 1977 and made its first public appearance on November 14, 1976 at Oliva de la Frontera. Its first official sanction occurred in the city of Cáceres after a motion was passed by the Junta Preautonómica and later made into law by the Statute of Autonomy.\n\nThe widow of Martín Rodríguez Contreras has written articles also attributing the creation of the flag to her husband.\n\nAnother theory on the flag’s colors, which has become a popular one, asserts that the flag originated when the colors of the football clubs of the two capitals of the province, the Club Polideportivo Cacereño (green shirt, white shorts) and the Club Deportivo Badajoz (black-and-white shirt, white shorts) were combined. However, the two athletic clubs simply took their colors from the traditional colors of their respective cities and provinces: green for Cáceres and black (from the Aftasid taifa) for Badajoz. Another theory explains the colors as signifying: green representing hope for a new Extremadura, white representing purity of the natural environment, and black representing sadness of the various emigrants who have had to leave their beloved land. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "green",
+                "hex": "#00AB39"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            }
+        ],
+        "design": "Three horizontal stripes of green, white, and black charged with the coat of arms. [0]",
+        "adoptionDate": 1983,
+        "related": {
+            "country": [
+                "Spain"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Extremadura"
+        ]
+    },{
+        "name": "Galicia",
+        "category": "Country Subdivisions",
+        "history": "The flag of Galicia appeared for first time in the 19th century, probably based on the colours of the ancient medieval flags of the Kingdom of Galicia. Originally, the flag was probably a blue St Andrew's Cross over a white field – St Andrew is one of the most popular saints in Galicia. The Coat of Arms of Galicia was actually the former flag of the Kingdom of Galicia. [0]",
+        "meaning": "Colors blue, white and gold were always related with Galicia. The chalice and the golden crosses on blue background have been its symbol since medieval times. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "blue",
+                "hex": "#0099CC"
+            }
+        ],
+        "design": "White field with a blue band crossing the flag from the top-left corner to the bottom-right. The State flag also has the coat of arms on top. [0]",
+        "adoptionDate": 1984,
+        "related": {
+            "country": [
+                "Spain"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Galicia"
+        ]
+    },{
+        "name": "La Rioja",
+        "category": "Country Subdivisions",
+        "history": "During the Week of La Rioja in Madrid (November 1977), organized by Colectivo Riojano, a flag was created, painted with a spray can with four colors: white positioned vertically and red, green, and yellow horizontally. Subsequently, in spring of 1978, the Colectivo Riojano also distributed some oval-shaped stickers with a four-colored design, which acquired its present form. In the same year, this flag began to appear in festivals in various towns, even though it lacked official sanction. It appeared, for example, in the revived street party of San Juan in Arnedo, where it appeared for the first time atop the Peña Lubumbas.\n\nA major impetus for the flag’s adoption was its use during the celebration known as \"I Día de La Rioja\", celebrated in Nájera in October 1978. From that point on, various regional collectives adopted the flag for their use. In January 1979, some townspeople from Haro asked their mayor to fly the flag from the town hall, as other town halls already were flying it. The association \"Amigos de La Rioja\" sent a letter to the president of the provincial council asking that the flag fly from the Provincial Palace (Palacio de la Diputación).\n\nThe flag, already known by this time as the \"cuatricolor\", was flying from various corners of La Rioja and in many flag designs, the red colored part of the flag acquired a reddish color tone approaching that of the color of red wine.\n\nIn May 1979, the flag flew from Mount Laturce during the celebrations of the \"Día de Clavijo\".\n\nPressure from the public, as well as the support given by city councils across La Rioja, led to the flag being officially approved by the Riojan government. In August 1979, an inquiry on the flag was sent out to the city councils across the region, with the result that 115 approved of the flag, 51 abstained, and 8 were against it.\n\nOn August 14, 1979, a plenary meeting of the Provincial Council finally approved the flag, with 17 votes for the flag by the political parties UCD and PSOE, the abstention of the Coalición Democrática (7 members). On September 15, at the festival of Our Lady of Valvanera the \"cuatricolor\" flew for the first time from the balcony of the Regional Council.\n\nSubsequently, with the creation of the autonomous community of La Rioja, the flag was designated as one of the symbols of Riojan identity. [0]",
+        "meaning": "The official meaning of the colors is given as: red representing wine and vineyards, white for the river and the sky, green for fields, orchards, mountains and forests, and yellow for lands and monuments [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#DC291E"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "green",
+                "hex": "#66BC29"
+            },{
+                "name": "yellow",
+                "hex": "#FFC82E"
+            }
+        ],
+        "design": "The flag consist of four horizontal bands of equal size, with the colors of red, white, green, and yellow. [0]",
+        "adoptionDate": 1982,
+        "related": {
+            "country": [
+                "Spain"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_La_Rioja"
+        ]
+    },{
+        "name": "Community of Madrid",
+        "category": "Country Subdivisions",
+        "history": "The flag of the Community of Madrid was designed by José María Cruz Novillo. [0]",
+        "meaning": "The crimson color stands for Castile as Madrid has been historically Castillian, and the stars represents each of the administrative areas of the province of Madrid, which are the City of Madrid, Alcalá de Henares, Torrelaguna, San Martín de Valdeiglesias, El Escorial, Getafe and Chinchón. Together the stars represent the Little Dipper. [0]",
+        "ratio": "7:11",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#C60B1E"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "Crimson red field, with seven five-pointed stars in silver, placed four and three in the centre of the field. [0]",
+        "adoptionDate": 1983,
+        "related": {
+            "country": [
+                "Spain"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_the_Community_of_Madrid"
+        ]
+    },{
+        "name": "Region of Murcia",
+        "category": "Country Subdivisions",
+        "history": "The four castles evoke the region’s history as a frontier zone caught between the Crown of Aragon and the Kingdom of Castile, and the Nasrid Kingdom of Granada and the Mediterranean Sea: four territories of land and sea, Christians and Muslims, adventurers and warriors, all of which created a distinct Murcian culture. The four castles also can refer to the four lordships that initially carved up the area after it was conquered by Alfonso X of Castile.\n\nThe seven crowns were granted to the Kingdom of Murcia by the Castilian Crown. The first five crowns were granted by Alfonso X on May 14, 1281, when he granted the standard and municipal seal to the capital city of Murcia. The sixth crown was granted by Peter of Castile on May 4, 1361, in honor of the loyalty of Murcia shown to Peter’s cause during the War of the Two Peters.\n\nThe seventh crown was granted by Philip V of Spain on September 16, 1709 in honor of the loyalty of Murcia shown to Philip’s cause during the War of the Spanish Succession. [0]",
+        "meaning": "See History.",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "crimson",
+                "hex": "#9C1F2D"
+            },{
+                "name": "yellow",
+                "hex": "#FCB714"
+            }
+        ],
+        "design": "Four castles with battlements or, in the upper left corner, arranged in rows of two, and seven royal crowns in the upper right corner, arranged in four rows, with a pattern of one, three, two, and one, respectively; against a crimson or carmine red background [0]",
+        "adoptionDate": 1982,
+        "related": {
+            "country": [
+                "Spain"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_the_Region_of_Murcia"
+        ]
+    },{
+        "name": "Navarre",
+        "category": "Country Subdivisions",
+        "history": "The flag of Navarre, the flag of the autonomous community of Navarre, was designed in 1910 by Arturo Campión, Julio Altadill, and Hermilio de Oloriz. In 1910, the design was approved by the Provincial Council of Navarre and it was sanctioned by the Organic Law of Reintegration and Improvement of the Regional Government of Navarre (Ley Orgánica de Reintegración y Amejoramiento del Régimen Foral de Navarra, or LORAFNA) of August 10, 1982. [0]",
+        "meaning": "The color red was chosen for the flag because this was the color of the field of the coat-of-arms. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#DA121A"
+            },{
+                "name": "yellow",
+                "hex": "#EAC102"
+            }
+        ],
+        "design": "Red field with the coat of arms in the center.",
+        "adoptionDate": 1982,
+        "related": {
+            "country": [
+                "Spain"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Navarre"
+        ]
+    },{
+        "name": "Valencian Community",
+        "category": "Country Subdivisions",
+        "history": "The flag of the Valencian Community was adopted on July 1, 1982. It is an historical derivation of the Senyera, the heraldic symbol of the Crown of Aragon, also used today with few variations in all the former kingdoms and counties which were a part of this crown. [0]",
+        "meaning": "See History.",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "yellow",
+                "hex": "#FCDD09"
+            },{
+                "name": "red",
+                "hex": "#DA121A"
+            },{
+                "name": "blue",
+                "hex": "#0072BC"
+            }
+        ],
+        "design": "Four red bars on a yellow background, crowned with a blue strip party per pale next to the spear. [0]",
+        "adoptionDate": 1982,
+        "related": {
+            "country": [
+                "Spain"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_the_Valencian_Community"
+        ]
+    },{
+        "name": "New South Wales",
+        "category": "Country Subdivisions",
+        "history": "The current state flag of New South Wales was officially adopted by the government of New South Wales in 1876.\n\nThis flag was adopted due to criticisms from the British Admiralty that the previous design was too similar to the design of the Victorian flag.\n\nThe state badge was designed by the Colonial Architect James Barnet and Captain Francis Hixson, a retired Royal Navy officer. [0]",
+        "meaning": "Even though no meaning for the design was given, it is perhaps a simplified version of what was the semi-official arms of New South Wales at the time. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002776"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#E00034"
+            },{
+                "name": "yellow",
+                "hex": "#FDC82F"
+            }
+        ],
+        "design": "The flag is based on the defaced British Blue Ensign with the state badge located in the fly. The badge, based on the coat of arms, is a white disc with the cross of St George, a golden lion passant guardant in the centre of the cross and an eight-pointed gold star on each arm of the cross. [0]",
+        "adoptionDate": 1876,
+        "related": {
+            "country": [
+                "Australia"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_New_South_Wales"
+        ]
+    },{
+        "name": "Queensland",
+        "category": "Country Subdivisions",
+        "history": "The flag dates from 1876, with minor variations, and the badge was designed by William Hemmant, the Colonial Secretary and Treasurer of Queensland in 1876. [0]",
+        "meaning": "/",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002776"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#E00034"
+            },{
+                "name": "blue",
+                "hex": "#3D7DE1"
+            }
+        ],
+        "design": "A British Blue Ensign defaced with the state badge on a white disc in the fly. The badge is a light blue Maltese Cross with an imperial crown in the centre of the cross. [0]",
+        "adoptionDate": 1876,
+        "related": {
+            "country": [
+                "Australia"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Queensland"
+        ]
+    },{
+        "name": "South Australia",
+        "category": "Country Subdivisions",
+        "history": "The current state flag of South Australia, was officially adopted by the government of South Australia in 1904.\n\nThe badge is believed to have been originally designed by Robert Craig, a teacher at the School of Arts in Adelaide, and officially gazetted on 14 January 1904. [0]",
+        "meaning": "The 1904 design shows in heraldic form a local bird - what was called a Piping Shrike, a form of magpie. There has been some speculation that the stylisation of the bird was inspired by the Imperial German (and Austrian) heraldic eagle.  [1]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002776"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#E00034"
+            },{
+                "name": "orange",
+                "hex": "#FFA300"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            }
+        ],
+        "design": "The flag is based on the defaced British Blue Ensign with the state badge located in the fly. The badge is a gold disc featuring a piping shrike with its wings outstretched. [0]",
+        "adoptionDate": 1904,
+        "related": {
+            "country": [
+                "Australia"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_South_Australia",
+            "https://flagspot.net/flags/au-sa.html"
+        ]
+    },{
+        "name": "Tasmania",
+        "category": "Country Subdivisions",
+        "history": "The current state flag of Tasmania was officially adopted following a proclamation by Tasmanian colonial Governor Sir Frederick Weld on 25 September 1876, and was first published in the Tasmanian Gazette the same day. This flag has remained almost unchanged since 1875, with only a slight change of the style of the lion when the flag was officially adopted by the government in 1975, although this was a mistake, as it had already been officially gazetted by the colonial government in 1876. [0]",
+        "meaning": "There is no official record of how the lion came to be included on the flag. Where this design originated from is unknown, but it is assumed that the red lion is a link with England. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002776"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#E00034"
+            }
+        ],
+        "design": "The flag consists of a defaced British Blue Ensign with the state badge located in the fly. The badge is a white disk with a red lion passant in the centre of the disk. [0]",
+        "adoptionDate": 1876,
+        "related": {
+            "country": [
+                "Australia"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Tasmania"
+        ]
+    },{
+        "name": "Victoria",
+        "category": "Country Subdivisions",
+        "history": "Victoria then adopted the current flag in 1877 with the stars of the southern cross from then on having 5, 6, 7, 7 and 8 points. The depictions of the crown have varied in accordance with heraldic fashion and the wishes of the monarch of the time. During Queen Victoria's reign, the crown had slightly dipped arches. From c. 1901–1952, during the reigns of Kings Edward VII, George V, Edward VIII and George VI the depiction of the crown known as the \"Tudor Crown\", with domed arches, was used. In 1953 the Tudor Crown was replaced with the St Edward's Crown. [0]",
+        "meaning": "/",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002776"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#E00034"
+            }
+        ],
+        "design": "A British Blue Ensign defaced by the state badge of Victoria in the fly. The badge is the Southern Cross topped by an imperial crown, which is currently the St Edward's Crown. The stars of the Southern Cross are white and range from five to eight points with each star having one point pointing to the top of the flag. [0]",
+        "adoptionDate": 1870,
+        "related": {
+            "country": [
+                "Australia"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Victoria"
+        ]
+    },{
+        "name": "Western Australia",
+        "category": "Country Subdivisions",
+        "history": "The current state flag of Western Australia was officially adopted by the government of Western Australia in 1953. [0]",
+        "meaning": "The black swan has long been a symbol of Western Australia. The original colony was called the Swan River Colony at the location which is now Perth. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002776"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#E00034"
+            },{
+                "name": "yellow",
+                "hex": "#FED100"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            }
+        ],
+        "design": "The flag is based on the defaced British Blue Ensign with the state badge located in the fly. The badge is a gold disc with a native black swan, the swan is facing towards the hoist. [0]",
+        "adoptionDate": 1953,
+        "related": {
+            "country": [
+                "Australia"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Western_Australia"
+        ]
+    },{
+        "name": "Australian Capital Territory",
+        "category": "Country Subdivisions",
+        "history": "The current flag of the Australian Capital Territory was officially adopted by the Australian Capital Territory Legislative Assembly in 1993.\n\nThe flag differs from the Australian state flags as it is not a modified (technically defaced) British Blue Ensign. It is similar in design to the flag of the Northern Territory.\n\nEven though the Australian Capital Territory has existed since 1909 and was given self-government in 1989, it had never had a flag of its own. Consequently, the government decided that the Territory should adopt a flag. In 1988 and 1992 competitions for a proposed new flag were held, in which artists and residents of the ACT could put forth their designs for the new flag. Subsequently the current flag won the competition. The ACT Legislative Assembly then officially adopted this flag in 1993.\n\nThe flag was designed by Ivo Ostyn. [0]",
+        "meaning": "The flag uses the Canberra city colours of blue and gold (which also happen to be the heraldic colours of Australia). The Southern Cross appears as five white stars on a blue panel at the hoist, whilst in the centre of the gold field in the fly is the modified arms of the City of Canberra. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#00005B"
+            },{
+                "name": "yellow",
+                "hex": "#EEA400"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A vertical 1:2 bicolour of blue (charged with the Southern Cross) and gold (charged with a modified Coat of arms of Canberra) [0]",
+        "adoptionDate": 1993,
+        "related": {
+            "country": [
+                "Australia"
+            ],
+            "similar": [
+                "Northern Territory"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_the_Australian_Capital_Territory"
+        ]
+    },{
+        "name": "Northern Territory",
+        "category": "Country Subdivisions",
+        "history": "The current state flag of the Northern Territory was officially adopted by the Northern Territory, Australia in 1978. The Northern Territory has been in existence since 1911, but could not hoist its first flag until self-government in 1978.\n\nThe Flag of the Northern Territory was officially acknowledged and raised for the first time in a ceremony celebrating self-government, on the esplanade in Darwin, the Territorial capital, on 1 July 1978. The ceremony was further acknowledged by a 19-gun salute from HMAS Derwent. As the Northern Territory never had colonial status or a prior flag, it was decided that an original design would be created. The flag was designed by Robert Ingpen, a prominent artist originally from Drysdale, Victoria. Ingpen used a number of designs suggested by the public as a basis for his final design. [0]",
+        "meaning": "The flag's colours consist of the official Territorian colours of black, white and ochre. The Southern Cross appears as five white stars on a black panel at the hoist. In the fly of the flag is a stylised Sturt's Desert Rose, the Territory's floral emblem since 1961, with seven white petals and a black seven-pointed core. The seven white petals represent the six Australian States and the Northern Territory. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "black",
+                "hex": "#000000"
+            },{
+                "name": "ochre",
+                "hex": "#E65A00"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A vertical 1:2 bicolour of black (charged with the Southern Cross) and ochre (charged with a stylised Sturt's Desert Rose) [0]",
+        "adoptionDate": 1978,
+        "related": {
+            "country": [
+                "Australia"
+            ],
+            "similar": [
+                "Australian Capital Territory"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_the_Northern_Territory"
+        ]
+    },{
+        "name": "Åland",
+        "category": "Country Subdivisions",
+        "history": "The flag has been the official flag of the autonomous Finnish province of Åland since 1954. It was first hoisted in the capital Mariehamn on 3 April 1954.\n\nPrior to autonomy, an unofficial horizontal bicolour triband of blue-yellow-blue was in use. The flag was made illegal in 1935. [0]",
+        "meaning": "The flag of Åland consists of the Swedish flag defaced by a red cross symbolising Finland. Today, blue and white are considered Finnish colours, but in the early days of Finnish nationalism, red and yellow from the Finnish coat of arms were also an option. [0]",
+        "ratio": "17:26",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#0053A5"
+            },{
+                "name": "yellow",
+                "hex": "#FFCE00"
+            },{
+                "name": "red",
+                "hex": "#D21034"
+            }
+        ],
+        "design": "Red-defaced yellow Scandinavian Cross on a blue field. [0]",
+        "adoptionDate": 1954,
+        "related": {
+            "country": [
+                "Finland"
+            ],
+            "similar": [
+                "Denmark",
+                "Faroe Islands",
+                "Finland",
+                "Iceland",
+                "Norway",
+                "Sweden"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Åland"
+        ]
+    },{
+        "name": "Iraqi Kurdistan",
+        "category": "Country Subdivisions",
+        "history": "The Flag of Kurdistan first appeared during the movement for Kurdish independence from the Ottoman Empire, and is the official flag of the autonomous Kurdistan Region in Iraq, which is under the control of the Kurdistan Regional Government. [0]",
+        "meaning": "The main characteristic of the flag is the blazing golden sun emblem (called a Roj) at its center. The emblem's sun disk has 21 rays, equal in size and shape, with the single odd ray at top and the two even rays on the bottom. Number 21 is a venerated number, standing for rebirth/renaissance in the ancient and native Kurdish religion of Yazdanism and its modern offshoots.\n\nThe symbolism of the colors is: red for the blood of the martyrs of Kurdistan, and the continued struggle for freedom; green for Kurdistan's nature, mountains, life and vitality; yellow for bright and freedom; and white for peace, freedom, and equality. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#ED2024"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "green",
+                "hex": "#278E43"
+            },{
+                "name": "yellow",
+                "hex": "#FEBD11"
+            }
+        ],
+        "design": "Red, Yellow, Green and white with sun disk (\"Rozh\" \"Roj\" \"Roush\") having 21 rays, equal in size and shape. [0]",
+        "adoptionDate": 1992,
+        "related": {
+            "country": [
+                "Iraq"
+            ],
+            "similar": [
+                "Hungary",
+                "Tajikistan"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Kurdistan"
+        ]
+    },{
+        "name": "Zanzibar",
+        "category": "Country Subdivisions",
+        "history": "The flag of Zanzibar was adopted on 9 January 2005. [0]",
+        "meaning": "/",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#00A3DD"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            },{
+                "name": "green",
+                "hex": "#1EB53A"
+            },{
+                "name": "yellow",
+                "hex": "#FCD116"
+            }
+        ],
+        "design": "It is a horizontal tricolour of blue, black, and green with the national flag of Tanzania in the canton. [0]",
+        "adoptionDate": 2005,
+        "related": {
+            "country": [
+                "Tanzania"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Zanzibar"
+        ]
+    }
+    ,{
+        "name": "England",
+        "category": "Country Subdivisions",
+        "history": "The flag of England is derived from St George's Cross. The association of the red cross as an emblem of England can be traced back to the Middle Ages, and it was used as a component in the design of the Union Flag in 1606. [0]",
+        "meaning": "See History.",
+        "ratio": "3:5",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#CE1124"
+            }
+        ],
+        "design": "A red centred cross on a white background [0]",
+        "adoptionDate": 1191,
+        "related": {
+            "country": [
+                "United Kingdom"
+            ],
+            "similar": [
+                "Guernsey",
+                "Northern Ireland"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_England"
+        ]
+    }
+    ,{
+        "name": "Northern Ireland",
+        "category": "Country Subdivisions",
+        "history": "The Flag of Northern Ireland, also known as the Ulster Flag or Ulster Banner, was used by the Northern Ireland government from 1953 until the government and parliament were abolished in 1973. Since then, it has had no official status and is not used by the current Northern Ireland government nor by the British government.\n\nHowever, it is still in common use; by loyalists/unionists, and to represent Northern Ireland internationally in some sporting competitions. The flag has become controversial; it is seen as an Ulster loyalist symbol and is rejected by Irish nationalists/republicans. [0]",
+        "meaning": "/",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#CC0000"
+            }
+        ],
+        "design": "A red cross on a white field defaced with a crowned white six-pointed star with a red hand in the centre. [0]",
+        "adoptionDate": 1953,
+        "related": {
+            "country": [
+                "United Kingdom"
+            ],
+            "similar": [
+                "England",
+                "Guernsey"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Northern_Ireland"
+        ]
+    }
+    ,{
+        "name": "Scotland",
+        "category": "Country Subdivisions",
+        "history": "According to legend, the Christian apostle and martyr Saint Andrew, the patron saint of Scotland, was crucified on an X-shaped cross at Patras, (Patrae), in Achaea. Use of the familiar iconography of his martyrdom, showing the apostle bound to an X-shaped cross, first appears in the Kingdom of Scotland in 1180 during the reign of William I. It was again depicted on seals used during the late 13th century, including on one used by the Guardians of Scotland, dated 1286.\n\nUsing a simplified symbol which does not depict St. Andrew's image, the saltire or crux decussata, (from the Latin crux, 'cross', and decussis, 'having the shape of the Roman numeral X'), began in the late 14th century. In June 1385, the Parliament of Scotland decreed that Scottish soldiers serving in France would wear a white Saint Andrew's Cross, both in front and behind, for identification.\n\nThe earliest reference to the Saint Andrew's Cross as a flag is found in the Vienna Book of Hours, circa 1503, in which a white saltire is depicted with a red background. In the case of Scotland, use of a blue background for the Saint Andrew's Cross is said to date from at least the 15th century, with the first certain illustration of a flag depicting such appearing in Sir David Lyndsay of the Mount's Register of Scottish Arms, circa 1542.\n\nThe legend surrounding Scotland's association with the Saint Andrew's Cross was related by Walter Bower and George Buchanan, who claimed that the flag originated in a 9th-century battle, where Óengus II led a combined force of Picts and Scots to victory over the Angles, led by Æthelstan. Supposedly, a miraculous white saltire appeared in the blue sky and Óengus' troops were roused to victory by the omen. Consisting of a blue background over which is placed a white representation of an X-shaped cross, the Saltire is one of Scotland's most recognisable symbols. [0]",
+        "meaning": "See History.",
+        "ratio": "3:5",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#0065BD"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A white satire on a blue field. [0]",
+        "adoptionDate": 1503,
+        "related": {
+            "country": [
+                "United Kingdom"
+            ],
+            "similar": [
+                "Nova Scotia"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Scotland"
+        ]
+    }
+    ,{
+        "name": "Wales",
+        "category": "Country Subdivisions",
+        "history": "The flag incorporates the Red Dragon of Cadwaladr, King of Gwynedd, along with the Tudor colours of green and white. It was used by Henry VII at the Battle of Bosworth in 1485, after which it was carried in state to St Paul's Cathedral. The red dragon was then included as a supporter of the Tudor royal arms to signify their Welsh descent. It was officially recognised as the Welsh national flag in 1959. [0]",
+        "meaning": "See History.",
+        "ratio": "3:5",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "green",
+                "hex": "#00AB39"
+            },{
+                "name": "red",
+                "hex": "#D21034"
+            }
+        ],
+        "design": "A red dragon passant on a green and white field. [0]",
+        "adoptionDate": 1959,
+        "related": {
+            "country": [
+                "United Kingdom"
+            ],
+            "similar": [
+                "Bhutan"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Wales"
+        ]
+    }
+    ,{
+        "name": "Alberta",
+        "category": "Country Subdivisions",
+        "history": "Around the time of the upcoming centennial celebration of Canadian Confederation petitions were submitted in November 1966 to Premier Ernest Charles Manning by the Social Credit Women's Auxiliaries of the Alberta Social Credit League to give Alberta its own unique flag. The flag was designed and approved as the official provincial flag by the Alberta legislature on June 1, 1968. [0]",
+        "meaning": "The provincial colours, adopted in 1984, are blue and gold (deep yellow); they are also referred to as \"Alberta blue\" and \"Alberta gold\", appearing on the flag/shield in the sky/background and wheat background, respectively. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#0D3692"
+            },{
+                "name": "yellow",
+                "hex": "#FEBA35"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#FC1921"
+            },{
+                "name": "green",
+                "hex": "#0D6826"
+            },{
+                "name": "grey",
+                "hex": "#BDBDBD"
+            }
+        ],
+        "design": "Ultramarine blue with the shield of the Alberta arms centred on the flag. [0]",
+        "adoptionDate": 1968,
+        "related": {
+            "country": [
+                "Canada"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Alberta"
+        ]
+    }
+    ,{
+        "name": "British Columbia",
+        "category": "Country Subdivisions",
+        "history": "From 1870 to 1906, British Columbia was occasionally represented by a modified British blue ensign featuring various forms of the great seal of the Colony of British Columbia. The current flag of British Columbia was based upon the 1906 arms of the province, designed by Anglican priest Canon Arthur John Beanlands of Victoria. Originally, the arms featured the Union Flag on the bottom. This was changed as it conflicted with the expression \"The sun never sets on the British Empire.\" Based upon Beanlands' revised design, the flag of British Columbia was introduced on June 14, 1960, by Premier W. A. C. Bennett, and was first flown on board the BC Ferries motor vessel Sidney (later Queen of Sidney). [0]",
+        "meaning": "The four wavy white and three wavy blue lines symbolize the province's location between the Pacific Ocean and the Rocky Mountains. The setting sun represents the fact that British Columbia is Canada's westernmost province. The sun may also reflect the provincial motto \"Splendor sine occasu\" (beauty that never diminishes)—or, in other words, the sun that never sets (on the British Empire).\n\nThe Union Flag on top reflects the province's British heritage, while the King Edward crown in the centre represents the Canadian Royal Family. [0]",
+        "ratio": "3:5",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#00247D"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#CF142B"
+            },{
+                "name": "yellow",
+                "hex": "#FFCC00"
+            }
+        ],
+        "design": "At the top of the flag is a rendition of the Royal Union Flag, defaced in the centre by a crown, and with a setting sun below. [0]",
+        "adoptionDate": 1960,
+        "related": {
+            "country": [
+                "Canada"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_British_Columbia"
+        ]
+    }
+    ,{
+        "name": "Manitoba",
+        "category": "Country Subdivisions",
+        "history": "This flag was approved by the passage of a bill in the Manitoba Legislative Assembly on May 11, 1965 and was officially proclaimed on 12 May 1966. Queen Elizabeth II gave permission for the use of the Union device the preceding year (October 1965). The decision to adopt the flag was made after the federal government decided to replace the Canadian Red Ensign with the Maple Leaf flag, which was quite controversial at the time. The Manitoban flag, intentionally designed to resemble the Canadian red ensign, was seen as a way of preserving heritage that some felt was lost when the national flag was changed. The flag of Ontario was adopted under similar circumstances.\n\nIn 2001, a survey conducted by the North American Vexillological Association (NAVA) placed the Manitoba provincial flag 44th in design quality out of the 72 Canadian provincial, U.S. state, and U.S. territory flags ranked. [0]",
+        "meaning": "On the white chief is the Cross of Saint George, a symbol of England. The bison is a symbolic reminder of the various bison that formerly roamed the province. [1]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#CC0000"
+            },{
+                "name": "blue",
+                "hex": "#000066"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "green",
+                "hex": "#165016"
+            },{
+                "name": "brown",
+                "hex": "#9E7E3A"
+            }
+        ],
+        "design": "A Red Ensign with the shield of the Coat of arms of Manitoba in the field. [0]",
+        "adoptionDate": 1966,
+        "related": {
+            "country": [
+                "Canada"
+            ],
+            "similar": [
+                "Bermuda",
+                "Ontario"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Manitoba",
+            "https://en.wikipedia.org/wiki/Coat_of_arms_of_Manitoba"
+        ]
+    }
+    ,{
+        "name": "New Brunswick",
+        "category": "Country Subdivisions",
+        "history": "The flag of New Brunswick, Canada, is a banner modelled after the province's coat of arms and was adopted by proclamation on February 24, 1965.\n\nThe flag ranked #18 in the North American Vexillological Association's survey of North American state and provincial flags. [0]",
+        "meaning": "The gold lioin represents New Brunswick's ties to both the Brunswick region in Germany and (the arms of) the Monarch of Canada. The Scottish Lymphad, the traditional representation of a ship in heraldry, represents shipbuilding, one of the province's main industries at the time the coat of arms was adopted and throughout much of the province's history. [0]",
+        "ratio": "5:8",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#D32927"
+            },{
+                "name": "yellow",
+                "hex": "#F4C600"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "blue",
+                "hex": "#1A3C86"
+            }
+        ],
+        "design": "A gold lion on the red field across the top one-third. The lower two-thirds of the flag depicts a Scottish Lymphad. [0]",
+        "adoptionDate": 1965,
+        "related": {
+            "country": [
+                "Canada"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_New_Brunswick"
+        ]
+    }
+    ,{
+        "name": "Nova Scotia",
+        "category": "Country Subdivisions",
+        "history": "The flag of Nova Scotia, created in 1858, is a banner of the coat of arms of Nova Scotia, which were granted to the Scottish colony by Charles I, in 1625.\n\nDespite continuous usage of the flag to represent Nova Scotia since 1858, the flag was only recognized by the Provincial government of Nova Scotia as the official provincial flag in May 2013, through the Provincial Flag Act (Bill 82), after an eleven-year-old girl researching a project realized that no one had recognized the flag officially in 155 years of usage. [0]",
+        "meaning": "The similarity to the Scottish flag reflects the province's name, which is Latin for \"New Scotland\". Nova Scotia was one of the few British colonies to be granted its own Coat of Arms, and the flag is the only one of the original Canadian provinces dating back to before confederation. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "blue",
+                "hex": "#0047B6"
+            },{
+                "name": "yellow",
+                "hex": "#FDD44F"
+            },{
+                "name": "red",
+                "hex": "#D21034"
+            }
+        ],
+        "design": "A blue saltire on a white field, charged with an inescutcheon bearing the royal arms of Scotland, a gold shield with a red lion rampant surrounded by a loyal double tressure. [0]",
+        "adoptionDate": 1858,
+        "related": {
+            "country": [
+                "Canada"
+            ],
+            "similar": [
+                "Scotland"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Nova_Scotia"
+        ]
+    }
+    ,{
+        "name": "Newfoundland and Labrador",
+        "category": "Country Subdivisions",
+        "history": "The flag of Newfoundland and Labrador was introduced in 1980, and was designed by Newfoundland artist Christopher Pratt. The flag design, with the proportions 2:1, was approved by the House of Assembly of the province of Newfoundland and Labrador, Canada, on May 28, 1980. It was flown for the first time on Discovery Day; June 24, 1980. [0]",
+        "meaning": "The design was chosen due to its broad symbolism. The blue colour represents the sea, the white colour represents snow and ice of winter, the red colour represents the effort and struggle of Newfoundlanders and Labradorians, and the gold colour symbolizes the confidence Newfoundlanders and Labradorians have in themselves and for the future.\n\nThe blue triangles are meant as a tribute to the Union Jack, and stand for the British heritage of Newfoundland and Labrador. The two red triangles are meant to represent the two areas of the province—the mainland and the island. The gold arrow, according to Pratt, points towards a \"brighter future\"; the arrow becomes a sword, honouring the sacrifices of Newfoundlanders in military service when the flag is draped as a vertical banner. The red triangles and the gold arrow form a trident, symbolizing the province's dependence on its fisheries and the resources of the sea. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "blue",
+                "hex": "#002373"
+            },{
+                "name": "red",
+                "hex": "#CD0019"
+            },{
+                "name": "yellow",
+                "hex": "#F8D80E"
+            }
+        ],
+        "design": "Four blue triangle-rectangles positioned in a similar fashion as the Union Jack on the hoist and two white triangle-rectangle bordered in red at the top and bottom of the second half, with a yellow vertical arrow bordered in red at the center.",
+        "adoptionDate": 1980,
+        "related": {
+            "country": [
+                "Canada"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Newfoundland_and_Labrador"
+        ]
+    }
+    ,{
+        "name": "Ontario",
+        "category": "Country Subdivisions",
+        "history": "Before 1965, the Canadian Red Ensign had served as the national flag of Canada. It was flown at all military installations in Canada and overseas, outside the legislature and government buildings, at Royal Canadian Legion halls, and many private homes. In 1964, the federal government, after a long and acrimonious debate, replaced the Red Ensign with the current flag of Canada. This decision was unpopular among millions of Canadians. These included many Ontarians, particularly in rural areas that made up much of the political base of Premier John Robarts' Ontario Progressive Conservatives.\n\nRobarts thus proposed that Ontario would have its own flag and that it would be a Red Ensign like the previous Canadian flag. It was traditional for jurisdictions around the world with a British system of government and way of life to adapt either a blue or red ensign as a flag, by adding the local coat of arms or some other symbol. In Ontario, it was logical to place the Ontario shield of arms on the flag. While Robarts insisted that he supported the new national flag, he felt the Ensign was an important symbol that reflected Ontario's British heritage and the sacrifices made by Canadian troops under the Red Ensign. As Robarts put it, the Ontario flag \"covers our history.\"\n\nCanadians were exhausted by the long debate over the national flag and leaders of both the Ontario Liberal Party and the Ontario New Democratic Party decided to support the design for the proposed Ontario flag. The only opposition came from Sudbury Liberal Member of Provincial Parliament Elmer Sopha who was fervently opposed to the flag, arguing that it failed to reflect Ontario's diverse character and that it was \"a flag of revenge\" against the new national flag. However, he was only joined by one other MPP, Liberal Leo Troy, in voting against the flag, and it was passed by the Legislative Assembly on March 17.\n\nThe flag of Manitoba was adopted under similar circumstances. [0]",
+        "meaning": "The shield of arms consists of three gold maple leaves on a green background, above which is a wide white band with a red St. George's cross. The maple leaves on the shield are of course the symbol of Canada. The cross of St. George recalls the historic connection with Britain. [1]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#CC0000"
+            },{
+                "name": "blue",
+                "hex": "#000066"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "green",
+                "hex": "#007934"
+            },{
+                "name": "yellow",
+                "hex": "#F3CC00"
+            }
+        ],
+        "design": "A Red Ensign with the shield of the Coat of arms of Ontario in the field. [0]",
+        "adoptionDate": 1965,
+        "related": {
+            "country": [
+                "Canada"
+            ],
+            "similar": [
+                "Bermuda",
+                "Manitoba"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Ontario",
+            "https://en.wikipedia.org/wiki/Coat_of_arms_of_Ontario"
+        ]
+    }
+    ,{
+        "name": "Prince Edward Island",
+        "category": "Country Subdivisions",
+        "history": "The flag was adopted March 24, 1964. [0]",
+        "meaning": "Based upon the Armorial Bearings of Prince Edward Island, the flag contains a gold Heraldic Lion which also appeared on the Coat of Arms for Prince Edward, Duke of Kent (for whom the Province was named) and on that of King Edward VII, who granted the Bearings. Beneath the lion is a single plot of grass representing PEI and England, both of which are islands. Upon the mound of grass stand a mature Oak tree (the official tree of Prince Edward Island) which represents England and three smaller saplings on the left, representing the 3 counties into which Prince Edward Island has been divided since 1767. Framing the flag on the three sides away from the mast are alternating bands of red and white, the official colors of Canada. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#D54040"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "yellow",
+                "hex": "#F3DB61"
+            },{
+                "name": "green",
+                "hex": "#2AA299"
+            },{
+                "name": "brown",
+                "hex": "#D3AF9A"
+            }
+        ],
+        "design": "The upper third of the flag features the English heraldic lion. he lower two-thirds show an island on which appear three small oak saplings under the protection of a great oak tree. The three sides away from the mast are bordered by alternating bands of red and white. [0]",
+        "adoptionDate": 1964,
+        "related": {
+            "country": [
+                "Canada"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Prince_Edward_Island"
+        ]
+    }
+    ,{
+        "name": "Quebec",
+        "category": "Country Subdivisions",
+        "history": "The flag of Quebec, called the Fleurdelisé, was adopted for the province by the government of Quebec, during the administration of Maurice Duplessis. It was the first provincial flag officially adopted in Canada, first shown on January 21, 1948, at the Parliament Building of the National Assembly in Quebec City. Quebec's Flag Day (January 21) commemorates its adoption each year, though for some time it was celebrated in May.\n\nA 2001 survey by the North American Vexillological Association ranked the Fleurdelisé as the best provincial or territorial flag, and the third-best of the flags of all U.S. and Canadian provinces, territories, and states. [0]",
+        "meaning": "Its white fleurs-de-lis (symbols of purity) and blue field (symbolizing Heaven) come from a banner honouring the Virgin Mary. One such was reputedly carried by French-Canadian militia at General Louis-Joseph de Montcalm's victory at Carillon. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#003399"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A blue field with a white cross and a white fleur-de-lys in each of the four blue rectangles.",
+        "adoptionDate": 1948,
+        "related": {
+            "country": [
+                "Canada"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Quebec"
+        ]
+    }
+    ,{
+        "name": "Saskatchewan",
+        "category": "Country Subdivisions",
+        "history": "The current flag of Saskatchewan was adopted on September 22, 1969, the result of a province-wide competition that drew over four thousand entries. The winning entry was designed by Anthony Drake of Hodgeville, Saskatchewan. [0]",
+        "meaning": "The upper green half of the flag represents the northern Saskatchewan forest lands, while the gold lower half symbolizes the southern, prairie wheat-fields.\n\nOn the gold chief is a lion passant or leopard, a royal symbol of England. The three gold sheaves of wheat, or garbs, represent the province's agriculture. [0][1]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "green",
+                "hex": "#076A21"
+            },{
+                "name": "yellow",
+                "hex": "#FDD401"
+            },{
+                "name": "red",
+                "hex": "#DD1810"
+            }
+        ],
+        "design": "A green-yellow vertical bicolour charged with the coat of arms in the canton and the floral emblem in the fly. [0]",
+        "adoptionDate": 1969,
+        "related": {
+            "country": [
+                "Canada"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Saskatchewan",
+            "https://en.wikipedia.org/wiki/Coat_of_arms_of_Saskatchewan"
+        ]
+    }
+    ,{
+        "name": "Northwest Territories",
+        "category": "Country Subdivisions",
+        "history": "The Northwest Territories' first official flag was chosen by a special committee of the Legislative Assembly of the Northwest Territories in 1969. The committee reviewed entries from a Canada wide contest. The winner of the contest was Robert Bessant from Margaret, Manitoba. [0]",
+        "meaning": "Two blue panels represent the Northwest Territories' many rivers and lakes. The white section, representing ice and snow, is equal in area to the 2 blue panels combined. The territorial Shield is centred in the white section. The white section of the Shield, with a wavy blue line dividing it, represents the Arctic Ocean and the Northwest Passage. A diagonal line, representing the tree line, divides the lower portion into a green and red section with green symbolizing the trees and red symbolizing the tundra. The gold bars in the green section and the white fox in the red section represent the abundant minerals and furs upon which the history and prosperity of the Northwest Territories has been based. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#00549F"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#EE3629"
+            },{
+                "name": "green",
+                "hex": "#008165"
+            },{
+                "name": "yellow",
+                "hex": "#FFC32A"
+            }
+        ],
+        "design": "A blue field, on which is a Canadian pale (a white stripe taking up half the width of the flag), with at the centre, the shield from the coat of arms of the Northwest Territories. [0]",
+        "adoptionDate": 1969,
+        "related": {
+            "country": [
+                "Canada"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_the_Northwest_Territories"
+        ]
+    }
+    ,{
+        "name": "Nunavut",
+        "category": "Country Subdivisions",
+        "history": "The process of creating a flag for Nunavut began prior to its creation as a territory in 1999. This created significant excitement in the vexillographic community, as it was the first change in the map of Canada since Newfoundland became a province in 1949 and was being created in a region with little flag history. In deference to the elders of the Inuit communities of Nunavut, the development of both the Nunavut flag and coat of arms was guided by their input. The process sought to give the public an opportunity to offer input into the colours and symbolism of the flag as well as to give local artists an opportunity to participate. Led by the Chief Herald of Canada, a group developing the flag visited a number of communities to seek input and learn about local culture, including Rankin Inlet, Baker Lake, Cape Dorset, Iqaluit, and Pangnirtung.\n\nThe group then put out a call for submissions across all of Canada, and received over 800. These submissions were reviewed and winnowed by a committee made up of artists and local elders who chose ten finalists. From the symbols and colours of these ten finalists, five draft designs of the flag were developed. They were assisted in drafting these by local Inuit artist Andrew Qappik. The final version of the flag was reviewed and accepted by the commission responsible for its adoption as well as the Governor General of Canada and Queen Elizabeth II. It was officially unveiled on 1 April 1999, the day when both the territory and government of Nunavut became official.\n\nFollowing its adoption, the flag has been criticized for vexillological reasons. Specifically, it has been criticized for having too many colours, the placement of the star at the end of the flag, the use of gold and white as the background field, and the use of a black outline around the inukshuk. [0]",
+        "meaning": "The colours blue and gold were selected to represent the \"riches of land, sea, and sky\", while red is used to represent Canada as a whole. The inuksuk, which divides the flag, is a traditional stone monument used to guide travellers and to mark sacred sites. In the upper fly, the blue star represents the North Star (Niqirtsituk), an important object due to its key role as a navigational beacon, and as symbolically representing the wisdom and leadership of community elders. [0]",
+        "ratio": "9:16",
+        "colors": [
+            {
+                "name": "yellow",
+                "hex": "#FDD500"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#D51516"
+            },{
+                "name": "blue",
+                "hex": "#0164BB"
+            }
+        ],
+        "design": "Gold and white fields divided vertically by a red inuksuk with a blue star in the upper fly. [0]",
+        "adoptionDate": 1999,
+        "related": {
+            "country": [
+                "Canada"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Nunavut"
+        ]
+    }
+    ,{
+        "name": "Yukon",
+        "category": "Country Subdivisions",
+        "history": "The flag of Yukon was officially adopted on March 1, 1968. The flag was chosen from a territory-wide competition as part of Canada's Centennial celebrations of 1967. The competition was sponsored by the Whitehorse branch of the Royal Canadian Legion. A C$100 prize was offered to the winning design. There were a total of 137 submissions with the winning design coming from Yukon College graduate Lynn Lambert. Lambert submitted 10 designs of which one made the final three designs as selected by a committee, with his eventually being named the winner. A prototype design was sent to Ottawa for suitable heraldic description. An expert in Ottawa sent back an amended version of the submitted flag design. The committee in Whitehorse however kept with the original design. The flag was adopted by a 'Flag Act' on December 1, 1967. [0]",
+        "meaning": "The flag is divided into three coloured panels: green representing Yukon's forests, white representing snow and blue representing Yukon's lakes and rivers.\n\nIn the centre of the white panel is the Coat of Arms of Yukon above a wreath of fireweed, the floral emblem of the Yukon. The crest of the Coat of Arms is a Malamute sled dog, a common work dog in the Yukon, standing on a mound of snow. The shield of the Coat of Arms contains at the top, a cross of St. George for England with a roundel with a pattern of vair (fur), called Roundel in Vair. Below in the middle of the shield are two wavy lines representing Yukon's rivers on a blue background.\n\nFinally at the bottom of the shield are two red triangles representing Yukon's mountains with gold circles in them representing the Yukon's great mineral resources. [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "green",
+                "hex": "#187B01"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "blue",
+                "hex": "#0738AC"
+            },{
+                "name": "red",
+                "hex": "#D51810"
+            },{
+                "name": "yellow",
+                "hex": "#FEDC00"
+            }
+        ],
+        "design": "A blue, white and green tricolour with the coat of arms of Yukon at the centre, above a wreath of fireweed. [0]",
+        "adoptionDate": 1968,
+        "related": {
+            "country": [
+                "Canada"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Yukon"
+        ]
+    }
+    ,{
+        "name": "Alabama",
+        "category": "Country Subdivisions",
+        "history": "Alabama's current flag was adopted in 1895. The legislation was introduced by Representative John W. A. Sanford Jr. Sanford's father, John W. A. Sanford, had commanded the 60th Alabama Infantry Regiment during the U.S. Civil War and he modeled his design on the battle flag used by that regiment.\n\nThe saltire of Alabama's flag most closely resembles the saltire of the flag of Florida, which has its heritage in the Spanish Cross of Burgundy. Southern Alabama was originally part of Spanish Florida and subsequently West Florida.\n\nIt is sometimes believed that the crimson saltire of the current flag of Alabama was designed to resemble the blue saltire of the Confederate Battle Flag. Many battle flags were square, and the flag of Alabama is sometimes also depicted as square. The legislation that created the state flag did not specify that the flag was to be square, however.\n\nAccording to historian John M. Coski, the adoption of Alabama's flag coincided with the rise of Jim Crow laws and segregation, as other former Confederate slave states, such as Mississippi and Florida, also adopted new state flags based off Confederate designs around the same time when those states instituted Jim Crow segregation laws themselves. [0]",
+        "meaning": "See History.",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#B10021"
+            }
+        ],
+        "design": "Crimson cross of St. Andrew in a field of white. [0]",
+        "adoptionDate": 1895,
+        "related": {
+            "country": [
+                "United States"
+            ],
+            "similar": [
+                "Florida"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Alabama"
+        ]
+    }
+    ,{
+        "name": "Alaska",
+        "category": "Country Subdivisions",
+        "history": "More than 30 years before Alaska was to become a state, the Alaska Department of the American Legion sponsored a territorial contest for Alaskan children in grades seven through twelve. Winning the contest in 1927, the design of Benny Benson, a 13-year-old Alaska Native residing at the Jesse Lee Home for Children in Seward, was chosen to represent the future flag of the Territory of Alaska. Up to that time, Alaskans had flown only the U.S. flag since the territory was purchased from Russia in 1867. Benson's design was chosen over roughly 700 other submissions from schoolchildren territory-wide in grades 7–12. Most other entries featured variations on the territorial seal, the midnight sun, the northern lights, polar bears, and/or gold pans. To celebrate his achievement, Benson was awarded US$1,000 and an engraved watch. [0]",
+        "meaning": "According to Benny Benson, \"the blue field is for the Alaska sky and the forget-me-not, an Alaskan flower. The North Star is for the future state of Alaska, the most northerly in the union. The Dipper is for the Great Bear—symbolizing strength.\"\n\nThe Big Dipper is an asterism in the constellation Ursa Major which symbolizes a bear, an animal indigenous to Alaska. As depicted on the flag, its stars can be used as a guide by the novice to locate Polaris and determine true north, which varies considerably from a magnetic north. [0]",
+        "ratio": "125:177",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#0F204B"
+            },{
+                "name": "yellow",
+                "hex": "#FFB612"
+            }
+        ],
+        "design": "Eight gold stars, in the shape of \"the big dipper\", on a blue background. [0]",
+        "adoptionDate": 1927,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Alaska"
+        ]
+    }
+    ,{
+        "name": "Arizona",
+        "category": "Country Subdivisions",
+        "history": "While Colonel Harris is credited with the creation of the Rifle Team flag, several individuals appear to have played a role in the creation of the state's first official flag. W. R. Stewart of Mesa was working in conjunction with Colonel Charles W. Harris, who was the Arizona Adjutant General and head of the Arizona National Guard. Stewart, as President of the Mesa Rifle Team, felt compelled to design a flag for competition. Stewart's wife (Mae) sewed the first flag for competition from a sketch he had made on the back of an envelope. Carl Hayden, Arizona's first US Congressman, was reported to have been involved with Colonel Harris in designing the first state flag, and his wife, Nan Hayden, was responsible for sewing the first state flag. Rachael Berry, a leader in women's suffrage and the first woman elected to the First Arizona Legislature during Arizona's first year of statehood in 1912, also is reported to have codesigned the Arizona flag with another woman (likely Nan Hayden) in the years preceding statehood. Many individuals likely were involved in its conception, design, and production, rather than one or two individuals working independently; the specific language used in official state of Arizona materials likely has merit.\n\nThe Stewart/Harris version of the competition flag's origin is due to Stewart dropping some copper dye and white material into boiling water and the result was the copper color now seen on the flag. While some sources claim the rising sun of the earlier proposals was thought to resemble the Japanese flag and was therefore changed to the present star, most official sources (including official state documents) cite the Spanish flag and the influence of the early Arizona explorers conquistadores Cabeza de Vaca and Coronado as they searched unsuccessfully for the lost (gold) City of Cibola as the inspiration for the colors. It is worth to remind, nonetheless, that these early Arizona's explorers never used the current Spanish flag, which is of a much recent invention (1785).\n\nThe flag was adopted on February 17, 1917, by the 3rd Arizona Legislature. It was passed into law without the signature of Governor Thomas Campbell. The governor did not officially state his reasons for taking no action on the bill. [0]",
+        "meaning": "The 13 rays of red and weld-yellow on the top half, the colors of the flag of Spain, represent the 13 original states. The red and yellow also symbolize Arizona's picturesque sunsets. The copper star represents the copper mining industry in Arizona. The rest of the flag is colored blue, representing the Colorado River. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#BF0A30"
+            },{
+                "name": "yellow",
+                "hex": "#FED700"
+            },{
+                "name": "copper",
+                "hex": "#CE5C17"
+            },{
+                "name": "blue",
+                "hex": "#002868"
+            }
+        ],
+        "design": "13 rays of red and weld-yellow on the top half of a blue field charged with a five-point copper star. [0]",
+        "adoptionDate": 1917,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Arizona"
+        ]
+    }
+    ,{
+        "name": "Arkansas",
+        "category": "Country Subdivisions",
+        "history": "The design was created by Willie Kavanaugh Hocker of Wabbaseka and selected from a field of 65 entries in a 1912 contest.\n\nAround 1912, the Pine Bluff chapter of the Daughters of the American Revolution (DAR) wished to present a state flag for the commissioning of the battleship USS Arkansas. When it was discovered that Arkansas did not have a state flag, the DAR chapter decided to sponsor a contest to design a flag. Hocker, a member of the Pine Bluff DAR chapter, won with a design that is similar to the current flag. She designed the flag with three blue stars in the middle of the white diamond and omitted \"ARKANSAS\". At the request of the flag committee, chaired by Secretary of State Earle Hodges, Hocker added \"ARKANSAS\" and rearranged the stars to one on top and two on bottom. This flag was adopted by the legislature on February 26,1913. [0]",
+        "meaning": "According to the 1987 state law defining the flag, the diamond represents Arkansas' status as \"the only diamond-bearing state in the Union\" (Crater of Diamonds State Park was the only diamond mine in North America at the time, before more recent discoveries in Colorado and Montana). The number (25) of white stars around the border of the diamond represents Arkansas' position as the 25th state to join the union. The blue star above \"ARKANSAS\" represents the Confederate States of America, which Arkansas joined in secession. The design of the border around the white diamond evokes the saltire found on the Confederate battle flag.\n\nThe three stars below \"ARKANSAS\" have three separate meanings: it represents the three nations to which Arkansas has belonged (Spain, France, and the U.S.); the Louisiana Purchase, which brought Arkansas into the U.S. and was signed in 1803; and Arkansas as the third state (after Louisiana and Missouri) formed from the Louisiana Purchase. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#BF0A30"
+            },{
+                "name": "blue",
+                "hex": "#002868"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "Red field containing a large blue-bordered white diamond. Twenty-nine five-pointed stars appear on the flag: twenty-five small white stars within the blue border, and four larger blue stars in the white diamond. The inscription \"ARKANSAS\" appears in blue within the white lozenge, with one star above and three stars below. The star above and the two outer stars below point upwards; the inner star below points downwards. [0]",
+        "adoptionDate": 1924,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Arkansas"
+        ]
+    }
+    ,{
+        "name": "California",
+        "category": "Country Subdivisions",
+        "history": "The Bear Flag is the official flag of the state of California. The precursor of the flag was first flown during the 1846 Bear Flag Revolt and was also known as the Bear Flag. The original Grizzly Bear Flag was designed by Peter Storm in anticipation of ending oppressive Mexican rule over the Free and Sovereign State of California, for all time. [0]",
+        "meaning": "The single red star represents the 1836 California Lone Star Flag. The bear is a reminiscence of the Bear Flag.",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#B71234"
+            },{
+                "name": "brown",
+                "hex": "#BD8A5E"
+            },{
+                "name": "brown",
+                "hex": "#584528"
+            },{
+                "name": "green",
+                "hex": "#008542"
+            }
+        ],
+        "design": "Contains a single red star, a red stripe along the bottom, and a grizzly bear. [0]",
+        "adoptionDate": 1911,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_California"
+        ]
+    }
+    ,{
+        "name": "Colorado",
+        "category": "Country Subdivisions",
+        "history": "The flag was designed by Andrew Carlisle Johnson in 1911 and adopted by the Colorado General Assembly on June 5 of the same year. [0]",
+        "meaning": "The blue is meant to represent the skies, the gold stands for the sunshine enjoyed by the state, the white represents the snowcapped mountains, and the red represents the ruddy colored earth. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#102E82"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#BF2C34"
+            },{
+                "name": "yellow",
+                "hex": "#F5D047"
+            }
+        ],
+        "design": "Three horizontal stripes of blue, white, and blue. On top of these stripes sits a circular red \"C\", filled with a golden disk. [0]",
+        "adoptionDate": 1964,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Colorado"
+        ]
+    }
+    ,{
+        "name": "Connecticut",
+        "category": "Country Subdivisions",
+        "history": "The Connecticut General Assembly approved the flag in 1897 after it was introduced by Governor Owen Vincent Coffin in 1895. The design comes from the seal of Saybrook Colony, designed by George Fenwick when it was established in 1639. [0]",
+        "meaning": "The three grapevines represent three oldest settlements (Windsor, Wethersfield, and Hartford). The banner below the shield reads \"Qui Transtulit Sustinet\", Latin for \"He who transplanted still sustains\", Connecticut's state motto. [0]",
+        "ratio": "3:4",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#0C2D83"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "yellow",
+                "hex": "#FFD312"
+            },{
+                "name": "green",
+                "hex": "#129612"
+            },{
+                "name": "brown",
+                "hex": "#961E1D"
+            },{
+                "name": "purple",
+                "hex": "#B400B4"
+            }
+        ],
+        "design": "White shield with three grapevines on a field of azure blue. [0]",
+        "adoptionDate": 1897,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Connecticut"
+        ]
+    }
+    ,{
+        "name": "Delaware",
+        "category": "Country Subdivisions",
+        "history": "The current flag was adopted on July 24, 1913. The coat of arms in the center of the flag was adopted on January 17, 1777. [0]",
+        "meaning": "The date \"December 7, 1787\", declares the day on which Delaware became the first state to ratify the United States Constitution. The colors of the flag reflect the colors of the uniform of General George Washington.\n\nThe coat of arms depicts a shield of horizontal green, blue, and white stripes. On the stripes are a sheaf of wheat, an ear of corn, and an ox standing on grass, all representing Delaware's agriculture. Above the shield is a sailing ship. Supporting the shield are a farmer on the left and a soldier on the right. The state motto, below the shield, reads \"Liberty and Independence\". [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#76A1A0"
+            },{
+                "name": "yellow",
+                "hex": "#F0DC82"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A buff-colored diamond on a field of colonial blue, with the coat of arms of the state of Delaware inside the diamond and the date \"December 7, 1787\" below the diamond. [0]",
+        "adoptionDate": 1913,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Delaware"
+        ]
+    }
+    ,{
+        "name": "Florida",
+        "category": "Country Subdivisions",
+        "history": "The design was approved by popular referendum November 6, 1900. The flag's current design has been in use since May 21, 1985, after the state seal was graphically altered and officially sanctioned for use by state officials.\n\nBetween 1868 and 1900, the flag of Florida was simply the state seal on a white background. In a discrepancy, however, a later version of the state seal depicts a steamboat with a white flag that includes a red saltire, similar to Florida's current flag. In the late 1890s, Governor Francis P. Fleming, a nationalist, advocated that St. Andrew's Cross be added so that it would not appear to be a white flag of truce hanging still on a flagpole. Floridians approved the addition of St. Andrew's Cross by popular referendum in 1900. The red saltire of the Cross of Burgundy represents the cross on which St. Andrew was crucified, and the standard can be frequently seen in Florida's historic settlements, such as St. Augustine, today.\n\nLastly, some historians see the addition of a red saltire as a commemoration of Florida's contributions to the Confederacy by Governor Fleming, who served in the 2nd Florida Regiment of the Confederate army. The addition was made during a period of nostalgia for the \"Lost Cause\" around the time of the flag's change. According to historian John M. Coski, the adoption of Florida's flag coincided with the rise of Jim Crow laws and segregation, as other former Confederate slave states, such as Mississippi and Alabama, also adopted new state flags based off Confederate designs around the same time when those states instituted Jim Crow segregation laws themselves [0]",
+        "meaning": "See History.",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#A80534"
+            },{
+                "name": "yellow",
+                "hex": "#FFB900"
+            }
+        ],
+        "design": "A red saltire on a white field, with the seal of Florida superimposed at the center. [0]",
+        "adoptionDate": 1900,
+        "related": {
+            "country": [
+                "United States"
+            ],
+            "similar": [
+                "Alabama"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Florida"
+        ]
+    }
+    ,{
+        "name": "Georgia (State)",
+        "category": "Country Subdivisions",
+        "history": "In 2002, Sonny Perdue was elected Governor of Georgia, partially on a platform of allowing Georgians to choose their own flag in a state referendum. He authorized the Georgia legislature to draft a new flag in 2003.\n\nThe Georgia General Assembly's proposed flag combined elements of Georgia's previous flags, creating a composition that was inspired by the Confederate First National flag, the Stars and Bars, rather than the Confederate Battle Flag. Perdue signed the legislation into law on May 8, 2003.\n\nThe 2003 flag legislation also authorized a public referendum on which of the two most recent flags (the 2001 and 2003 versions) would be officially adopted as the flag of the state. The referendum took place during the state's March 2, 2004 presidential primary election. If the 2003 flag was rejected, the pre-2001 design would have been put to a vote. The 2003 design won 73.1% of the vote in the referendum. [0]",
+        "meaning": "The design principle is based on the first national flag of the Confederacy, which was nicknamed the \"Stars and Bars\".\n\nThe ring of stars that encompass the state's coat of arms symbolize Georgia's status as one of the original Thirteen Colonies.\n\nIn the coat of arms, the arch symbolizes the state's constitution and the pillars represent the three branches of government: legislative, executive, and judicial. The words of the state motto, \"Wisdom, Justice, and Moderation\", are wrapped around the pillars, guarded by a male figure dressed in colonial attire dating back to the time of the American Revolutionary War. Within the arms, a sword is drawn to represent the defense of the state's constitution. An additional motto, In God We Trust, is positioned underneath these elements acting as the state's \"foundation\".  [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002D56"
+            },{
+                "name": "yellow",
+                "hex": "#EED000"
+            },{
+                "name": "red",
+                "hex": "#B50027"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "Three stripes consisting of red, white, red. A blue canton containing a ring of 13 stars encompassing the state's coat of arms in gold. [0]",
+        "adoptionDate": 2003,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Georgia_(U.S._state)"
+        ]
+    }
+    ,{
+        "name": "Hawaii",
+        "category": "Country Subdivisions",
+        "history": "The same flag had also previously been used by the kingdom, protectorate, republic, and territory of Hawaii. It is the only U.S. state flag to feature the Union flag of the United Kingdom, a remnant of the British Empire's influence on Hawaiian history.\n\nThe original flag was designed to feature stripes alternating in the order red-white-blue, also attributed to various historical flags of the United Kingdom. The flag used at the first official flying of the flag of Hawaii erroneously placed the stripes in the order white-red-blue, although it seems explorers to the island disagree about the exact order of colors and the number of stripes up to the late 1840s. There may have been possibly different versions of the flag with different numbers of stripes and colors. The number of stripes also changed: originally, the flag was designed with either seven or nine horizontal stripes, and in 1845 it was officially changed to eight stripes. The latter arrangement was adopted and is used today. [0]",
+        "meaning": "The field of the flag is composed of eight horizontal stripes, symbolizing the eight major islands (Hawaiʻi, Oʻahu, Kauaʻi, Kahoʻolawe, Lānaʻi, Maui, Molokaʻi and Niʻihau). [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#CF142B"
+            },{
+                "name": "blue",
+                "hex": "#00247D"
+            }
+        ],
+        "design": "8 alternating horizontal stripes of white, red, and blue, with a Union flag in the canton. [0]",
+        "adoptionDate": 1845,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Hawaii"
+        ]
+    }
+    ,{
+        "name": "Idaho",
+        "category": "Country Subdivisions",
+        "history": "The Seal of the Territory of Idaho was adopted in 1863, and redrawn several times before statehood in 1890. The state Great Seal was designed by Emma Edwards Green, the only woman to design a state seal.\n\nThe flag of the state of Idaho consists of the state seal on a field of blue. [0]",
+        "meaning": "The seal depicts a miner and a woman representing equality, liberty and justice. The symbols on the seal represent some of Idaho’s natural resources: mines, forests, farmland, and wildlife.\n\nThe current seal contains the text \"Great Seal of the State of Idaho\" in the outer ring, with the star that signifies a new light in the galaxy of states. The inner ring contains a banner with the Latin motto, Esto perpetua (\"Let it be perpetual\" or \"It is forever\"). A woman, signifying justice, and a man, dressed as a miner, support a shield. The miner reminds us of the chief industry of the State at the time of statehood.\n\nInside, the shield bears images symbolic of the State. The pine tree in the foreground refers to Idaho's immense timber interests. The husbandman plowing on the left side of the shield, together with the sheaf of grain beneath the shield, are emblematic of Idaho's agricultural resources, while the two cornucopias, or horns of plenty, refer to the horticultural. Idaho has a game law, which protects the elk and moose, and an elk's head rises above the shield. The state flower, the wild Syringa or Mock Orange, grows at the woman's feet, while the ripened wheat grows as high as her shoulder. The river depicted in the shield is the Snake or Shoshone River. [0]",
+        "ratio": "26:33",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#003776"
+            },{
+                "name": "yellow",
+                "hex": "#FFE835"
+            },{
+                "name": "red",
+                "hex": "#EF1439"
+            }
+        ],
+        "design": "State seal of Idaho on a field of blue. [0]",
+        "adoptionDate": 1957,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_and_seal_of_Idaho"
+        ]
+    }
+    ,{
+        "name": "Illinois",
+        "category": "Country Subdivisions",
+        "history": "The Great Seal of the State of Illinois is the official emblem of the state, and signifies the official nature of a document produced by the state of Illinois. The flag of the state of Illinois consists of the seal of Illinois on a white background, with the word \"Illinois\" underneath the seal. The present seal was adopted in 1869, the flag bearing the central elements of the seal was adopted in 1915, and the word, Illinois was added to the flag in 1970. [0]",
+        "meaning": "The current flag depicts the Great Seal of Illinois, which was originally designed in 1819 and emulated the Great Seal of the United States. In the eagle's beak there is a banner with the state motto, \"State Sovereignty, National Union.\" The dates on the seal, 1818 and 1868, represent the year Illinois became a state and the year in which the Great Seal was redesigned by Sharon Tyndale. [0]",
+        "ratio": "3:5",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "brown",
+                "hex": "#84623C"
+            },{
+                "name": "red",
+                "hex": "#980826"
+            },{
+                "name": "blue",
+                "hex": "#002868"
+            },{
+                "name": "yellow",
+                "hex": "#FFE60F"
+            },{
+                "name": "grey",
+                "hex": "#B4B4B4"
+            },{
+                "name": "green",
+                "hex": "#3F863F"
+            }
+        ],
+        "design": "Seal of Illinois on a white field. [0]",
+        "adoptionDate": 1969,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_and_seal_of_Illinois"
+        ]
+    }
+    ,{
+        "name": "Indiana",
+        "category": "Country Subdivisions",
+        "history": "The flag of Indiana was designed by Paul Hadley and officially adopted by the state of Indiana on May 31, 1917. It was the state's first official flag and has remained unchanged since then except for the creation of a statute to standardize the production of the flag. [0]",
+        "meaning": "The flag consists of a gold torch that represents liberty and enlightenment; the rays around the torch represent their far-reaching influence. The nineteen stars represent Indiana's place as the nineteenth state to join the United States. The thirteen stars in the outer loop symbolize the original Thirteen Colonies, the five inner stars represent the next five states added to the Union, and the one large star above the torch represents Indiana. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#000F5D"
+            },{
+                "name": "yellow",
+                "hex": "#D59F0F"
+            }
+        ],
+        "design": "A gold torch surrounded by an outer circle of thirteen stars, an inner semi circle of five stars, and a 19th, larger, star at the top of the torch, crowned by the word 'Indiana', representing Indiana's admission to the Union as the 19th state. [0]",
+        "adoptionDate": 1917,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Indiana"
+        ]
+    }
+    ,{
+        "name": "Iowa",
+        "category": "Country Subdivisions",
+        "history": "The flag was adopted in 1921; it was first approved in May 1917, by the Iowa State Council for Defense. It was designed in 1917, by Knoxville, Iowa, resident Mrs. Dixie Cornell Gebhardt, of the Daughters of the American Revolution of Iowa. [0]",
+        "meaning": "The vertical tricolor of blue, white, and red reflects Iowa's history as part of the French Louisiana Territory.\n\nThe image of a bald eagle with a long ribbon reading \"Our liberties we prize and our rights we will maintain\", taken from the Seal of Iowa, is centered in the middle white stripe. The word \"Iowa\" is placed directly below it in red, serifed majuscules. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#0A1F62"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#D90026"
+            },{
+                "name": "brown",
+                "hex": "#A54A00"
+            }
+        ],
+        "design": "A vertical tricolor consisting of blue, white, red. The center stripe is twice the width of the other two and contains an eagle holding a ribbon. [0]",
+        "adoptionDate": 1921,
+        "related": {
+            "country": [
+                "United States"
+            ],
+            "similar": [
+                "France"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Iowa"
+        ]
+    }
+    ,{
+        "name": "Kansas",
+        "category": "Country Subdivisions",
+        "history": "The flag of Kansas was designed in 1925. Officially adopted by the Kansas State Legislature in 1927 and modified in 1961 (the word \"Kansas\" was added below the seal in gold block lettering). First flown at Fort Riley by Governor Benjamin S. Paulen in 1927 for the troops at Fort Riley and for the Kansas National Guard.\n\nFrom 1925 to 1927, Kansas used a state banner instead of a flag. The Kansas state banner, which consisted of a large sunflower and the word \"Kansas\" on a blue field, was intended to be hung from a horizontal bar, rather than a vertical flag pole. It was given a unique design to avoid \"competition\" with the United States flag. However, after the banner was rejected for display in Washington, D.C., and generated complaints for its awkward method of hanging, the state legislature adopted a state flag that saw the addition of the word \"Kansas\" at the bottom in 1961 but has otherwise retained its original design. [0]",
+        "meaning": "The state seal centered on the flag tells the history of Kansas and his figures representing pioneer life. The seal contains: a landscape with a rising sun (the east), a river and steamboat (commerce), a settler's cabin and a man plowing a field (agriculture), a wagon train heading west (American expansion), Indians hunting American Bison (the buffalo are fleeing from the Indians), a cluster of 34 stars (top of the seal) and the State motto \"Ad Astra per Aspera\" - Latin : \"To the Stars through Difficulties\" (above the stars).\n\nThe thirty-four stars clustered at the top of the seal identify Kansas as the 34th state to be accepted into the Union of the United States. [0]",
+        "ratio": "3:5",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002569"
+            },{
+                "name": "yellow",
+                "hex": "#F1AD02"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "Seal of Kansas on a field of azure. A sunflower is displayed above the seal and the word \"Kansas\" below. [0]",
+        "adoptionDate": 1965,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Kansas"
+        ]
+    }
+    ,{
+        "name": "Kentucky",
+        "category": "Country Subdivisions",
+        "history": "Once Kentucky became part of the Union in 1792, the state adopted the 15-star flag of the Union. The U.S. flag was kept as the unofficial state flag for many years that followed. During the American Civil War, the flag of the Confederate States as well as the flag of the Union flew over Kentucky with prominence varying on location and the progression of the war.\n\nThe flag was designed by Jesse Cox Burgess, an art teacher in Frankfort, the state capital. The flag was adopted by the Kentucky General Assembly on March 26, 1918, and finalized the process by including a drawing in the statutes on 1928. [0]",
+        "meaning": "The flag consists of the Commonwealth's seal on a navy blue field, surrounded by the words \"Commonwealth of Kentucky\" above and sprigs of goldenrod, the state flower, below. The seal depicts a pioneer and a statesman embracing. Popular belief claims that the buckskin-clad man on the left is Daniel Boone, who was largely responsible for the exploration of Kentucky, and the man in the suit on the right is Henry Clay, Kentucky's most famous statesman. However, the official explanation is that the men represent all frontiersmen and statesmen, rather than any specific persons. The state motto: \"United We Stand, Divided We Fall\" circles them. The motto comes from the lyrics of \"The Liberty Song\", a patriotic song from the American Revolution. [0]",
+        "ratio": "10:19",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#000066"
+            },{
+                "name": "yellow",
+                "hex": "#E6AD05"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "green",
+                "hex": "#396D4B"
+            }
+        ],
+        "design": "Seal of Kentucky on a field of azure. [0]",
+        "adoptionDate": 1918,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Kentucky"
+        ]
+    }
+    ,{
+        "name": "Louisiana",
+        "category": "Country Subdivisions",
+        "history": "Prior to 1861, the state of Louisiana had no official flag, though a flag similar to the present one was often used unofficially.\n\nIn January 1861, after declaring secession from the United States but before the formation of the Confederate States of America, Louisiana unofficially used a flag based on the flag of France with seven stars on the blue stripe.\n\nIn February 1861, Louisiana officially adopted a flag with a single yellow star in a red canton, with thirteen red, white and blue stripes. This was used through the end of the American Civil War, though the Pelican flag and Flag of January 1861 remained in use unofficially.\n\nOn November 22, 2010, a new version of the flag bearing an updated version of \"A Pelican In Her Piety\" was unveiled. The new flag was a result of a bill passed during the 2006 legislative session legally requiring a standardized flag and to combat the issue of several alternating versions of the 1912 flag being in circulation. [0]",
+        "meaning": "The flag of Louisiana consists of a heraldic charge called a \"pelican in her piety\", representing a mother pelican wounding her breast to feed her young from the blood. The mother pelican's head and outspread wings covering the three pelican chicks nestled below her form a stylized fleur-de-lis, another emblem of similar significance often depicted in Louisiana. This symbol, emblematic of Christian charity (and of Catholicism), is also found on the state seal. [0]",
+        "ratio": "7:11",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#00447B"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "yellow",
+                "hex": "#F99D32"
+            },{
+                "name": "red",
+                "hex": "#FF2A2A"
+            }
+        ],
+        "design": "Image of a pelican feeding her young with her own blood on a field of azure. Below the pelican, a ribbon displays \"Union Justice Confidence\". [0]",
+        "adoptionDate": 2010,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Louisiana"
+        ]
+    }
+    ,{
+        "name": "Maine",
+        "category": "Country Subdivisions",
+        "history": "The Maine legislature approved the current flag on February 23, 1909. [0]",
+        "meaning": "In the center of the shield, a moose rests under a tall pine tree. A farmer and seaman represent the traditional reliance on agriculture and the sea by the state. The North Star represents the state motto: Dirigo (\"I Lead\"). [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002664"
+            },{
+                "name": "yellow",
+                "hex": "#FFE84F"
+            },{
+                "name": "red",
+                "hex": "#FF163C"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "green",
+                "hex": "#3E6F3E"
+            },{
+                "name": "green",
+                "hex": "#3E6218"
+            },{
+                "name": "brown",
+                "hex": "#6F513E"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            }
+        ],
+        "design": "The state coat of arms on a blue field. [0]",
+        "adoptionDate": 1909,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Maine"
+        ]
+    }
+    ,{
+        "name": "Maryland",
+        "category": "Country Subdivisions",
+        "history": "The Maryland colony was founded by Cecilius Calvert, second baron and Lord Baltimore (1605–1675), which was granted to him as George's son and heir by King Charles I, hence the use of his family's coat of arms in the flag. At first, only the gold and black Calvert arms were associated with Maryland, being reintroduced in 1854. The red and white colored arms of the Crossland family, which belonged to the family of Calvert's (Lord Baltimore's) paternal grandmother, gained popularity during the American Civil War, during which Maryland remained with the Union despite a large proportion of the citizenry's support for the Confederacy, especially in the central City of Baltimore and the counties of the southern part of the state and the Eastern Shore of the Chesapeake Bay. Those Marylanders who supported the Confederacy, many of whom fought in the Army of Northern Virginia of General Robert E. Lee, adopted the Crossland banner, which was red and white with the bottony (trefoil) cross (seen as \"secession colors\") and often used a metal bottony cross pinned to their gray uniforms or caps (kepis). The black and gold (yellow) colors with the chevron design of the Calvert family were used in the flags and devices and uniform pins of the Union Army regiments in the northern Army of the Potomac.\n\nAfter the war, Marylanders who had fought on either side of the conflict returned to their state in need of reconciliation. The present design, which incorporates both of the coats of arms used by George Calvert, began appearing. At first, the Crossland coat of arms was put in the upper-left corner, but this was supposedly swapped with the Union's Calvert arms because of the Union victory.\n\nThe flag in its present form was first flown on October 11, 1880, in Baltimore, at a parade marking the 150th anniversary of the founding of Baltimore (1729–1730). It also was flown on October 25, 1888, at the Gettysburg Battlefield during ceremonies dedicating monuments to the Maryland regiments of the Army of the Potomac by reorganized regiments of the former state militia, now the Maryland National Guard. However, it was not officially adopted as the state flag until 1904.\n\nIt is one of only four U.S. state flags that does not contain the color blue (the other three being Alabama, California, and New Mexico). It is also the only US state flag to be directly based on English heraldry, although the flag of Washington, D.C. is a modification of the coat of arms of George Washington's family. [0]",
+        "meaning": "The black and gold design on the flag is the coat of arms from the Calvert line. It was granted to George Calvert as a reward for his storming a fortification during a battle (the vertical bars approximate the bars of the palisade). The red and white design is the coat of arms of the Crossland line, the family of Lord Baltimore's mother, and features a cross bottony with the red and white sides of the cross alternating. Since George Calvert's mother was a heiress, he was entitled to use both coats of arms in his banner. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "black",
+                "hex": "#000000"
+            },{
+                "name": "yellow",
+                "hex": "#EAAB00"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#981E32"
+            }
+        ],
+        "design": "Heraldic banner of George Calvert, 1st Baron Baltimore. [0]",
+        "adoptionDate": 1904,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Maryland"
+        ]
+    }
+    ,{
+        "name": "Massachusetts",
+        "category": "Country Subdivisions",
+        "history": "The state flag was officially adopted in 1901, but had been used unofficially since the American Revolutionary War as the ensign of the Massachusetts State Navy. In 1971, the earlier pine tree was replaced by the current design. [0]",
+        "meaning": "The shield depicts an Algonquian Native American with bow and arrow; the arrow is pointed downward, signifying peace. The arm itself is the Goliad symbol common in early Texas flags and signifying the philosophy that those represented would rather lose their right arm than live under tyranny. A white star with five points appears next to the figure's head, signifying Massachusetts' admission as the sixth U.S. state. A blue ribbon surrounds the shield, bearing the state motto Ense Petit Placidam, Sub Libertate Quietem (\"By the Sword We Seek Peace, But Peace Only Under Liberty\"). Above the shield is the state military crest: the bent arm holding a broadsword aloft. The sword has its blade up, to remind that it was through the American Revolution that liberty was won. [0]",
+        "ratio": "3:5",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "blue",
+                "hex": "#1F2C5C"
+            },{
+                "name": "yellow",
+                "hex": "#E6A300"
+            }
+        ],
+        "design": "The state coat of arms centered on a white field. [0]",
+        "adoptionDate": 1971,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Massachusetts"
+        ]
+    }
+    ,{
+        "name": "Michigan",
+        "category": "Country Subdivisions",
+        "history": "The present flag, adopted in 1911, is the third state flag. The first flag featured a portrait of Michigan's first governor, Stevens T. Mason, on one side and the state coat of arms and \"a soldier and a lady\" on the other side. The first flag is completely lost, and no images of it exist, as far as anyone knows. The second flag, adopted in 1865, displayed the state coat of arms on one side and the United States coat of arms on the other. [0]",
+        "meaning": "The state coat of arms depicts a light blue shield, upon which the sun rises over a lake and peninsula, and a man with a raised hand representing peace and holding a long gun representing the fight for state and nation as a frontier state.\n\nAs supporters, the elk and moose are derived from the Hudson's Bay Company coat of arms, and depict great animals of Michigan. The bald eagle represents the United States which formed the State of Michigan from the Northwest Territory.\n\nThe design features three Latin mottos. From top-to-bottom they are:\nOn red ribbon: \"E Pluribus Unum,\" means \"Out of many, one,\" a motto of the United States.\nOn light blue shield: \"Tuebor,\" means \"I will defend.\"\nOn white ribbon: \"Si Quæris Peninsulam Amœnam Circumspice,\" means \"If you seek a pleasant peninsula, look about you.\" (The official state motto). [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#00287E"
+            },{
+                "name": "red",
+                "hex": "#EF1439"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "brown",
+                "hex": "#86473F"
+            },{
+                "name": "yellow",
+                "hex": "#FFEF6F"
+            },{
+                "name": "green",
+                "hex": "#35B336"
+            }
+        ],
+        "design": "Coat of arms of Michigan on a blue field. [0]",
+        "adoptionDate": 1911,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Michigan"
+        ]
+    }
+    ,{
+        "name": "Minnesota",
+        "category": "Country Subdivisions",
+        "history": "The first state flag of Minnesota was adopted in 1893; at that time a prototype flag was commissioned from the local embroiderer Pauline Gerhardin Fjelde, which won a gold medal at the Chicago World's Fair.\n\nThe current flag was adopted in 1957 and the state seal on the flag was modified in 1983. [0]",
+        "meaning": "The sun, visible on the western horizon, signifies summer in the northern hemisphere. The horizon's visibility signifies the flat plains covering much of Minnesota. The American Indian on horseback is riding towards the south and represents the American Indian heritage of Minnesota. The Indian's horse and spear and the Pioneer's ax, rifle, and plow represent tools that were used for hunting and labor. The stump symbolizes the importance of the lumber industry in Minnesota's history. The Mississippi River and St. Anthony Falls are depicted to note the importance of these resources in transportation and industry. The cultivated ground and the plow symbolize the importance of agriculture in Minnesota. Beyond the falls three pine trees represent the state tree and the three pine regions of Minnesota; the St. Croix, Mississippi, and Lake Superior. [1]",
+        "ratio": "7:11",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#3D68C9"
+            },{
+                "name": "yellow",
+                "hex": "#FCB216"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#ED1A3A"
+            },{
+                "name": "green",
+                "hex": "#60BB48"
+            }
+        ],
+        "design": "State seal on a medium blue field. [0]",
+        "adoptionDate": 1983,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Minnesota",
+            "https://en.wikipedia.org/wiki/Seal_of_Minnesota"
+        ]
+    }
+    ,{
+        "name": "Mississippi",
+        "category": "Country Subdivisions",
+        "history": "The flag of the state of Mississippi was first adopted by the U.S. state of Mississippi in April 1894, replacing the flag that had been adopted in 1861. The flag was subsequently repealed in 1906 and readopted in April 2001. The flag is unique among U.S. state flags as it is the sole remaining U.S. state flag which still depicts the Confederate battle flag's saltire, after Georgia adopted a new state flag in 2003. [0]",
+        "meaning": "/",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002868"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#BF0A30"
+            }
+        ],
+        "design": "Three horizontal stripes of blue, white and red. The canton is square, spans 2 stripes, consists of a red background with a blue saltire, bordered with white and emblazoned with thirteen (13) five-pointed stars. [0]",
+        "adoptionDate": 1894,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Mississippi"
+        ]
+    }
+    ,{
+        "name": "Missouri",
+        "category": "Country Subdivisions",
+        "history": "The Missourian state flag was designed and stitched in Cape Girardeau, Missouri, by Marie Elizabeth Watkins Oliver, the wife of former State Senator R.B. Oliver. It was made the official flag of the state on March 22, 1913, when then governor Elliot Woolfolk Major signed a bill making it official. [0]",
+        "meaning": "The flag is a tricolor consisting of three horizontal stripes of red, white and blue. These represent valor, purity, vigilance, and justice. The colors also reflect the state's historic status as part of the French Louisiana (New France). In the center white stripe is the Seal of Missouri, circled by a blue band containing 24 stars, symbolizing Missouri's admission as the 24th U.S. state. [0]",
+        "ratio": "7:12",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#AB0635"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "blue",
+                "hex": "#004B8D"
+            }
+        ],
+        "design": "A horizontal tricolor of red, white and blue. The Missouri Seal, surrounded by a blue band and stars, is superimposed in the field center. [0]",
+        "adoptionDate": 1913,
+        "related": {
+            "country": [
+                "United States"
+            ],
+            "similar": [
+                "Netherlands",
+                "Paraguay"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Missouri"
+        ]
+    }
+    ,{
+        "name": "Montana",
+        "category": "Country Subdivisions",
+        "history": "The current flag was adopted in 1905, and the word \"Montana\" above the seal was added in 1981. In 1985, the flag was again modified to specify the font used in \"Montana\".\n\nThe North American Vexillological Association (NAVA) declared the flag of Montana to be the third worst state/provincial flag, 70th in a field of 72 in a list that contained all the provinces of Canada, U.S. states and U.S. territories. [0]",
+        "meaning": "The outer ring of the seal contains the text \"The Great Seal of the State of Montana\". The inner circle depicts a landscape of mountains, plains and forests by the Great Falls on the Missouri River. A plow, a pick and a shovel are depicted on the front, representing the state's industry. The banner at the bottom of the seal reads the territorial motto of Oro y Plata, meaning \"Gold and Silver\" in Spanish. [1]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002A68"
+            },{
+                "name": "yellow",
+                "hex": "#FFD90F"
+            },{
+                "name": "brown",
+                "hex": "#A81800"
+            },{
+                "name": "green",
+                "hex": "#A2D100"
+            }
+        ],
+        "design": "The Montanan state seal centered on a blue field. [0]",
+        "adoptionDate": 1905,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Montana",
+            "https://en.wikipedia.org/wiki/Seal_of_Montana"
+        ]
+    }
+    ,{
+        "name": "Nebraska",
+        "category": "Country Subdivisions",
+        "history": "The current design was adopted in 1925, although a design in 1921 from an architect based in the U.S. state of New York was rejected by the Nebraskan state government. The official designation of the design as the state flag occurred in 1963; Nebraska was one of the last states to adopt an official flag.\n\nThe Nebraskan flag was rated in a survey by the North American Vexillological Association as 71st out of 72 U.S. and Canadian flags, making it the second-worst flag in the survey. The worst-ranked flag, the flag of Georgia at the time, was temporary and has since been changed. In 2002, the Nebraska Legislature's Government, Military and Veterans Affairs Committee discussed a bill that would have created a commission that would suggest new flag designs to the Legislature. The flag was not changed. [0]",
+        "meaning": "A train steams across the background, with mountains in the distance. A steamboat plies the waters of the Missouri River. A simple cabin and sheaves of harvested wheat portray the importance of settlers and agriculture. A blacksmith works at his anvil in the foreground. At the top of the seal a banner holds the motto \"Equality Before the Law\", and around the outer ring of the seal contain the text \"Great Seal of the State of Nebraska, March 1st, 1867\". [1]",
+        "ratio": "3:5",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002A86"
+            },{
+                "name": "yellow",
+                "hex": "#FFCC00"
+            }
+        ],
+        "design": "Seal of Nebraska in gold on an azure field [0]",
+        "adoptionDate": 1925,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Nebraska",
+            "https://en.wikipedia.org/wiki/Seal_of_Nebraska"
+        ]
+    }
+    ,{
+        "name": "Nevada",
+        "category": "Country Subdivisions",
+        "history": "The current flag had its origin in a design contest announced in 1926. The winning design, by Louis Shellback III, was subjected to some revision in the state legislature, where there was disagreement between the two houses over the placement of the word \"Nevada\" on the flag. A compromise was reached, and in 1929 Governor Fred B. Balzar signed into law a bill adopting the new flag. In 1989, however, a legislative researcher discovered that the bill as sent to and signed by the Governor did not accurately reflect the 1929 legislative agreement. The flag used from 1929 until it was revised in 1991 displayed the letters of the word \"Nevada\" in a complete circle around the flag's single star, with the \"N\" of Nevada at the uppermost tip of the star indicating its \"northern\" position in the civil war, and with each of the other letters of the word Nevada located in the spaces between the remaining points of the star, displaying near each junction of the star's pentagonal center. Thus \"Nevada\" was spelt from the \"N\" at the top, radiating clockwise E, V, A, D, A, in the spaces between the star's points. A law enacted in 1991 directed that the word \"Nevada\" appear below the star and above the sagebrush sprays, thus producing the current design. [0]",
+        "meaning": "The emblem contains a silver star, below which appears the state's name. Above the star is a golden-yellow scroll with the words \"Battle Born\", one of the state's mottos (in reference to Nevada becoming a state during the American Civil War). Below the star and state name are two sprays of green sagebrush (the state flower) with yellow flowers. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#0047AB"
+            },{
+                "name": "yellow",
+                "hex": "#FFDF00"
+            },{
+                "name": "green",
+                "hex": "#017B21"
+            },{
+                "name": "grey",
+                "hex": "#C9C0BB"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            }
+        ],
+        "design": "Solid cobalt blue field. The canton contains two sagebrush branches encircling a silver star with the text \"Nevada\" and \"Battle Born\". [0]",
+        "adoptionDate": 1991,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Nevada"
+        ]
+    }
+    ,{
+        "name": "New Hampshire",
+        "category": "Country Subdivisions",
+        "history": "The State of New Hampshire has held two seals since it declared its independence from Great Britain on January 5, 1776. While both seals have been retained, most people are only familiar with the Great Seal due to its corporate use.\n\nThe New Hampshire state flag's design was ranked as one of the ten worst flags (specifically 63rd out of 72) within the United States (including all U.S. states and U.S. territories), and Canadian provinces in a 2001 survey of members of the North American Vexillological Association. [0]",
+        "meaning": "The 1931 State Seal law placed the frigate Raleigh as the centerpiece of the new seal. The Raleigh was built in Portsmouth in 1776, as one of the first 13 warships sponsored by the Continental Congress for a new American navy. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002A86"
+            },{
+                "name": "yellow",
+                "hex": "#EFAE0E"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "green",
+                "hex": "#3F863F"
+            },{
+                "name": "brown",
+                "hex": "#9E4D3C"
+            },{
+                "name": "red",
+                "hex": "#DE1C2C"
+            }
+        ],
+        "design": "The state seal centered on a blue background. [0]",
+        "adoptionDate": 1931,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_and_seal_of_New_Hampshire"
+        ]
+    }
+    ,{
+        "name": "New Jersey",
+        "category": "Country Subdivisions",
+        "history": "The coat of arms was originally designed by Pierre Eugene du Simitiere in 1777 and was modified slightly in 1928.\n\nThe seal is the central motif in the flag of New Jersey and the Great Seal of the State of New Jersey. [0]",
+        "meaning": "The coat of arms contains a horse's head; beneath that is a helmet, showing that New Jersey governs itself, and it has three plows on a shield to highlight the state's agriculture tradition, which shows why the state has the nickname \"Garden State\". The two Goddesses represent the state motto, \"Liberty and Prosperity\". Liberty is on the left. She is holding a staff with a liberty cap on it, and the word liberty underneath her. The goddess on the right is Ceres, goddess of agriculture. She is holding a cornucopia with prosperity written below her. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "yellow",
+                "hex": "#F0DC82"
+            },{
+                "name": "blue",
+                "hex": "#00589C"
+            },{
+                "name": "red",
+                "hex": "#EF1439"
+            },{
+                "name": "orange",
+                "hex": "#FF9E0F"
+            },{
+                "name": "brown",
+                "hex": "#A96A41"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "The coat of arms of the state on a buff-colored background. [0]",
+        "adoptionDate": 1896,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Coat_of_arms_of_New_Jersey"
+        ]
+    }
+    ,{
+        "name": "New Mexico",
+        "category": "Country Subdivisions",
+        "history": "The Daughters of the American Revolution pushed New Mexico to design a contemporary and unique flag in 1920. A contest to design the new state flag was won by Dr. Harry Mera of Santa Fe, New Mexico. Mera was an archaeologist who was familiar with the Zia Sun symbol found at Zia Pueblo on a 19th-century pot. The symbol has sacred meaning to the Zia. Four is a sacred number which symbolizes the Circle of Life: the four directions, the four times of day, the four stages of life, and the four seasons. The circle binds the four elements of four together. His winning design is the flag that the state uses today.\n\nNew Mexico has the best-designed flag of any U.S. state, territory or Canadian province, according to a 2001 survey by the North American Vexillological Association. [0]",
+        "meaning": "The flag of the U.S. state of New Mexico consists of a red sun symbol of the Zia on a field of yellow. The colors invoke the flags of Habsburg Spain (the Cross of Burgundy flag) and the Crown of Aragon brought by the conquistadors. This highlights the state's Native American Pueblo and Spanish roots. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "yellow",
+                "hex": "#FFD700"
+            },{
+                "name": "red",
+                "hex": "#BF0A30"
+            }
+        ],
+        "design": "The ancient Zia Sun symbol in red, in the center of a field of yellow. [0]",
+        "adoptionDate": 1925,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_New_Mexico"
+        ]
+    }
+    ,{
+        "name": "New York",
+        "category": "Country Subdivisions",
+        "history": "The coat of arms of the state of New York was formally adopted in 1778, and appears as a component of the state's flag and seal. [0]",
+        "meaning": "According to Joseph Gavit in New York History, Volume XXXI, the seal symbolizes the following:\n\nIn the center, a shield reveals the sun rising behind Mount Beacon over the Hudson River. \"The shield symbolizes in the full sun the name and idea of Old York and the old world; the mountains, river and meadow, with the ships, convey the name and idea of New York in the new world.\"\n\nTo the right, Justice is ready to fight tyranny with her sword held high.\n\nLiberty on the left, holds her foot on the overthrown English Crown. \"This New York is supported by Justice and Liberty, and discards monarchy.\"\n\nThe world globe is displayed above the shield. \"By exhibiting the eastern and western continents on the globe, the old and new are brought together.\"\n\nAbove the world globe soars the eagle. \"while the eagle on the crest proclaims, Westward the course of empire takes its way.\"\n\nThe bottom ribbon exclaims \"Excelsior,\" which means \"still higher\" or \"ever upward.\" [0]",
+        "ratio": "1:2",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002D72"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "yellow",
+                "hex": "#F2A900"
+            },{
+                "name": "red",
+                "hex": "#FF3515"
+            },{
+                "name": "green",
+                "hex": "#2C5234"
+            }
+        ],
+        "design": "The coat of arms on a solid blue background. [0]",
+        "adoptionDate": 1901,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Coat_of_arms_of_New_York"
+        ]
+    }
+    ,{
+        "name": "North Carolina",
+        "category": "Country Subdivisions",
+        "history": "A former Confederate soldier and then state Adjutant General, Johnston Jones, introduced the bill which led the state legislature to adopt this flag in March 1885 to replace the flag that had been adopted on June 22, 1861, immediately following the state's declaration of secession from the Union on May 20, 1861. The red field of the old flag was replaced by a blue field. This was the first and only flag formally representing the State of North Carolina and is not considered to be a Confederate Flag, but rather the first state flag.\n\nDuring the American Civil War, secessionist leaders spoke of the Mecklenburg Declaration with reverence, attempting to connect it with the state's joining the Confederacy. Confederate leader Jefferson Davis spoke to a Charlotte crowd in September 1864 saying \"people of this section were the first to defy British authority and declare themselves free\" encouraging them to continue backing the Confederacy's civil war effort. [0]",
+        "meaning": "The flag bears the dates of the Mecklenburg Declaration of Independence (May 20, 1775) and of the Halifax Resolves (April 12, 1776), documents that place North Carolina at the forefront of the American independence movement. Both dates also appear on the Great Seal of North Carolina. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002868"
+            },{
+                "name": "red",
+                "hex": "#BF0A30"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "yellow",
+                "hex": "#FFCA00"
+            }
+        ],
+        "design": "A blue union, containing in the center thereof a white star with the letter \"N\" in gilt on the left and the letter \"C\" in gilt on the right of said star, the circle containing the same to be one-third the width of the union. [0]",
+        "adoptionDate": 1991,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_North_Carolina"
+        ]
+    }
+    ,{
+        "name": "North Dakota",
+        "category": "Country Subdivisions",
+        "history": "The design for the flag of the state of North Dakota is an almost exact copy of the unit banner carried by the state's troop contingent in the Philippine–American War. It was adopted by the North Dakota Legislative Assembly on March 3, 1911, although the color was not precisely specified at that time. Legislation in 1943 brought the flag in line with the original troop banner, which is on display at the North Dakota Heritage Center in Bismarck. [0]",
+        "meaning": "The flag also resembles the Great Seal of the United States. [0]",
+        "ratio": "26:33",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002A86"
+            },{
+                "name": "yellow",
+                "hex": "#FFD12B"
+            },{
+                "name": "red",
+                "hex": "#FF163C"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "brown",
+                "hex": "#663D3D"
+            },{
+                "name": "green",
+                "hex": "#20D942"
+            }
+        ],
+        "design": "Unit banner carried by the state's troop in the Philippine–American War. [0]",
+        "adoptionDate": 1943,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_North_Dakota"
+        ]
+    }
+    ,{
+        "name": "Ohio",
+        "category": "Country Subdivisions",
+        "history": "The flag was designed in 1901 by John Eisenmann for the Pan-American Exposition and adopted in 1902. Before that, for nearly a century after statehood, Ohio had no legally authorized state flag. One unsuccessful proposal called for a design based on the state seal.\n\nOhio's swallowtail flag is the only non-rectangular U.S. state flag. [0]",
+        "meaning": "The flag's red, white, and blue elements symbolize the state's natural features and order of admission into the Union. A prominent disc in the flag's triangular canton is suggestive of the state's name. [0]",
+        "ratio": "8:13",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#001C5A"
+            },{
+                "name": "red",
+                "hex": "#C1133D"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "Guidon consisting of 5 horizontal stripes alternating between red and white. The chevron is azure containing a white and red \"O\" and 17 white stars. [0]",
+        "adoptionDate": 1902,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Ohio"
+        ]
+    }
+    ,{
+        "name": "Oklahoma",
+        "category": "Country Subdivisions",
+        "history": "Oklahoma's first flag was adopted in 1911, four years after statehood. Taking the colors red, white, and blue from the flag of the United States, the flag featured a large centered white star fimbriated in blue on a red field. The number 46 was written in blue inside the star, as Oklahoma was the forty-sixth state to join the Union.\n\nA contest, sponsored by the Daughters of the American Revolution, was held in 1924 to replace the flag, as red flags were closely associated with communism. The winning entry by Louise Fluke, which was adopted as the state flag on April 2, 1925, resembled the current flag without the word Oklahoma on it. That word was added in 1941 in an effort to combat widespread illiteracy.\n\nThe official design of the state flag has not changed since 1941, however, unauthorized Oklahoma flag designs became prevalent throughout the state, so much so that the correct and official design of the flag was becoming lost. These unauthorized flags displayed stylized eagle feathers, incorrectly shaped crosses, an incorrectly shaped calument, wrong colors, or combinations of these and other errors. In 2005, an Oklahoma boy scout leader designing patches for a National Jamboree contingent was looking for an image of the Oklahoma state flag and noticed that there were multiple unauthorized designs of the Oklahoma state flag displayed on state government, historical, and educational websites. With some research he was able to identify the official design to use, but because of the prevalence of unauthorized designs, he contacted his state representative, and was the impetus to standardize the colors and shapes by Oklahoma Senate Bill 1359 and signed into law by Governor Brad Henry on May 23, 2006, taking effect on November 1, 2006. [0]",
+        "meaning": "The Osage shield is covered by two symbols of peace: the Plains-style ceremonial pipe representing Native Americans, and the olive branch representing European Americans. Six golden brown crosses, Native American symbols for stars, are spaced on the shield. The blue field is inspired by the Choctaw flag adopted by the tribe in 1860 and carried though the American Civil War. The blue field also represents devotion. The shield surmounted by the calumet and olive branch represents defensive or protective warfare, showing a love of peace by a united people. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#0073CF"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "brown",
+                "hex": "#B3995D"
+            },{
+                "name": "brown",
+                "hex": "#9A3B26"
+            },{
+                "name": "green",
+                "hex": "#1D5C42"
+            }
+        ],
+        "design": "Buffalo-skin shield with seven eagle feathers on a sky blue field. [0]",
+        "adoptionDate": 2006,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Oklahoma"
+        ]
+    }
+    ,{
+        "name": "Oregon",
+        "category": "Country Subdivisions",
+        "history": "The current flag of Oregon became official on February 26, 1925. What is believed to be the first flag of Oregon produced was made that year by Meier & Frank, sewn by Marjorie Kennedy and Blanche Cox, employees of the department store. [0]",
+        "meaning": "The flag field is navy blue with all lettering and symbols in gold, representing the state colors of Oregon. On the obverse, the legend STATE OF OREGON is written above an escutcheon, which also appears in the Oregon state seal. The shield is surrounded by 33 stars, representing Oregon's admission to the Union as the 33rd state. Below the shield is written 1859, the year in which Oregon became a state. [0]",
+        "ratio": "3:5",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002A86"
+            },{
+                "name": "yellow",
+                "hex": "#FFEA0F"
+            }
+        ],
+        "design": "Seal of Oregon in gold on an azure field. Above the seal the text \"State of Oregon\" is displayed in a wavy flow. [0]",
+        "adoptionDate": 1925,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Oregon"
+        ]
+    }
+    ,{
+        "name": "Pennsylvania",
+        "category": "Country Subdivisions",
+        "history": "Originally authorized by the state in 1799, the current design was enacted by law in 1907.\n\nIn the summer of 2005, a bill was introduced to the state legislature to add \"Pennsylvania\" to the bottom of the flag in golden letters. The Pennsylvania House of Representatives voted in favor of the change. The legislation was proposed by State Representative Tim Solobay. The Senate has not yet taken action on the bill. [0]",
+        "meaning": "The Pennsylvania coat of arms features a shield crested by an American bald eagle, flanked by horses, and adorned with symbols of Pennsylvania's strengths—a ship carrying state commerce to all parts of the world; a clay-red plough, a symbol of Pennsylvania's rich natural resources; and three golden sheaves of wheat, representing fertile fields and Pennsylvania's wealth of human thought and action. An olive branch and cornstalk cross limbs beneath—symbols of peace and prosperity. The state motto, \"Virtue, Liberty and Independence\", appears festooned below. Atop the coat of arms is a bald eagle, representing Pennsylvania's loyalty to the United States. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002A86"
+            },{
+                "name": "yellow",
+                "hex": "#FFCE00"
+            },{
+                "name": "green",
+                "hex": "#076A21"
+            },{
+                "name": "red",
+                "hex": "#D10B10"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            },{
+                "name": "brown",
+                "hex": "#352B00"
+            },{
+                "name": "grey",
+                "hex": "#414141"
+            }
+        ],
+        "design": "Coat of Arms of Pennsylvania on a blue field. [0]",
+        "adoptionDate": 1900,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Pennsylvania"
+        ]
+    }
+    ,{
+        "name": "Rhode Island",
+        "category": "Country Subdivisions",
+        "history": "The present flag of the state of Rhode Island was formally adopted in 1897. As early as the 1640s, the anchor and \"hope\" were found on the Rhode Island Seal, and the seal's words and emblems were likely inspired by the biblical phrase \"hope we have as an anchor of the soul,\" found in Hebrews, Verse 6:18-19. Rhode Island's earliest colonists were fleeing religious persecution in Massachusetts due to their Christian beliefs. [0]",
+        "meaning": "The gold anchor in the center is a symbol for hope. The thirteen gold stars stand for the original 13 colonies and Rhode Island's status as the 13th state to ratify the Constitution. [0]",
+        "ratio": "29:33",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "yellow",
+                "hex": "#FEC500"
+            },{
+                "name": "blue",
+                "hex": "#003271"
+            }
+        ],
+        "design": "Gold anchor, surrounded by 13 gold stars, on a field of white. A blue ribbon below the anchor contains the text \"hope\". [0]",
+        "adoptionDate": 1897,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Rhode_Island"
+        ]
+    }
+    ,{
+        "name": "South Carolina",
+        "category": "Country Subdivisions",
+        "history": "The flag of the U.S. state of South Carolina has existed in some form since 1775, being based on one of the first Revolutionary War flags. South Carolina's flag was ranked as the 10th best designed state or provincial flag in North America by the North American Vexillological Association in 2001. [0]",
+        "meaning": "The flag's palmetto and crescent are popular throughout South Carolina and other southeastern states as a symbol of the state's long-standing heritage. [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#003366"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "White palmetto tree on an indigo field. The canton contains a white crescent (gorget). [0]",
+        "adoptionDate": 1861,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_South_Carolina"
+        ]
+    }
+    ,{
+        "name": "South Dakota",
+        "category": "Country Subdivisions",
+        "history": "The original flag of South Dakota consisted of a dominant sun encircled by the text \"South Dakota\" and \"The Sunshine State\". The inscription on the bottom was changed in 1992.\n\nAccording to a 2001 survey by the North American Vexillological Association, South Dakota’s flag was the fifth-worst (68th out of 72) U.S. and Canadian subnational flag in design quality, in a contest that included all Canadian provinces, U.S. states and U.S. territories. It was criticized in particular by the association for the unnecessary repetition of the state name. [0]",
+        "meaning": "/",
+        "ratio": "3:5",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#0074A8"
+            },{
+                "name": "yellow",
+                "hex": "#FFC400"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            }
+        ],
+        "design": "A field of sky blue charged with a version (in navy blue on white) of the state seal in the center, surrounded by gold triangles representing the sun's rays, surrounded in turn by inscriptions in gold sans-serif capitals of \"SOUTH DAKOTA\" on top and \"THE MOUNT RUSHMORE STATE\" (the state nickname) on the bottom. [0]",
+        "adoptionDate": 1992,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_South_Dakota"
+        ]
+    }
+    ,{
+        "name": "Tennessee",
+        "category": "Country Subdivisions",
+        "history": "The flag was designed by Colonel LeRoy Reeves of the Tennessee National Guard, a Johnson City attorney who was serving in the Tennessee National Guard in 1905 when he created the new flag design.\n\nThe Tennessee State Legislature officially adopted the flag on April 17, 1905. [0]",
+        "meaning": "The three stars represent the three Grand Divisions of the state, East Tennessee, Middle Tennessee, and West Tennessee. The blue circle around the stars represents the unity of the \"Grand Divisions\" of the state.\n\nThe blue bar at the edge of the flag was purely a design consideration. When asked about the blue bar, Reeves stated that \"The final blue bar relieves the sameness of the crimson field and prevents the flag from showing too much crimson when hanging limp.\" [0]",
+        "ratio": "3:5",
+        "colors": [
+            {
+                "name": "red",
+                "hex": "#CC0000"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "blue",
+                "hex": "#002D65"
+            }
+        ],
+        "design": "A blue circle with three white five-pointed stars on a rectangular field of red, with a strip of white and blue on the fly. [0]",
+        "adoptionDate": 1905,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Tennessee"
+        ]
+    }
+    ,{
+        "name": "Texas",
+        "category": "Country Subdivisions",
+        "history": "This flag was introduced to the Congress of the Republic of Texas on December 28, 1838, by Senator William H. Wharton and was adopted on January 25, 1839, as the final national flag of the Republic of Texas. When Texas became the 28th state of the Union on December 29, 1845, the national flag became the state flag. From 1879 until 1933 there was no official state flag, although the Lone Star remained the de facto state flag. The Revised Civil Statutes of 1879 repealed all statutes not explicitly renewed and since the statutes pertaining to the flag were not among those renewed, Texas was formally flagless until the passage of the Texas Flag Code in 1933.\n\nThe actual designer of the flag is unknown. Dr. Charles B. Stewart is credited with drawing the image used by the Third Congress when enacting the legislation adopting the flag, and Sen. William H. Wharton introduced the flag to Congress.\n\nIn 2001, a survey conducted by the North American Vexillological Association rated the Texas state flag second best in design quality out of the 72 Canadian provincial, U.S. state, and U.S. territory flags ranked. [0]",
+        "meaning": "The Texas Flag Code assigns the following symbolism to the colors of the Texas flag: blue stands for loyalty, white for purity, and red for bravery. The code also states that single (lone) star \"represents ALL of Texas and stands for our unity as one for God, State, and Country.\" The \"lone star\" is, in fact, an older symbol predating the flag which was used to symbolize Texans' solidarity in declaring independence from Mexico. It is still seen today as a symbol of Texas' independent spirit, and gave rise to the state's official nickname \"The Lone Star State.\" [0]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002868"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#BF0A30"
+            }
+        ],
+        "design": "⅓ of the hoist is blue containing a single centered white star. The remaining field is divided horizontally into a white and red bar. [0]",
+        "adoptionDate": 1839,
+        "related": {
+            "country": [
+                "United States"
+            ],
+            "similar": [
+                "Chile"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Texas"
+        ]
+    }
+    ,{
+        "name": "Utah",
+        "category": "Country Subdivisions",
+        "history": "The flag's basic design uses the Seal of Utah which was adopted by the state legislature on April 3, 1896. The seal was designed by artist Harry Edwards, and has similarities with the seal of the Utah Territory. The state's first flag was created in March 1903 to be used at the Louisiana Purchase Exposition in St. Louis, Missouri. Heber M. Wells, the governor of Utah, asked the Utah State Chapter of the Daughters of the American Revolution to oversee the creation of a flag. On May 1, 1903, the governor and his delegation marched, under the new flag, in the parade of states. The flag was blue, with the state seal and the year '1896' hand-embroidered in white thread in the flag's center. Initially this flag was known as the \"Governor's Flag\" until Senate Joint Resolution 17 was passed by the legislature on March 9, 1911, making it the official state flag.\n\nIn 1912, the Sons and Daughters of Utah Pioneers ordered a custom made copy of the newly adopted flag to be presented to the battleship USS Utah, which was commissioned on August 31, 1911. When the flag arrived, the group discovered that the shield on the flag was in full color instead of white, and the manufacturer had added a gold ring around the shield. Rather than have the flag remade, Annie Wells Cannon introduced HJR 1 and the Utah legislature changed the law to allow the changes found on the 1913 version to become part of the official flag. Prior to being received by the Ship on June 25, 1913, the new flag was displayed at the state capitol in January 1913, then in the ZCMI windows on Main Street and at a ball held in honor of the flag.\n\nDuring the 59th state legislative session in 2011, a Concurrent Resolution (HCR002) was adopted requiring flag makers to fix a mistake found on all current Utah state flags. The mistake originated in 1922 when a flag maker misplaced the year 1847, by stitching it just above the year 1896, instead of in its correct position on the shield. It is believed every flag made since 1922 used this flag as a model, and the mistake has been present for 89 years. Later that same 2011 session, House Bill #490 passed the legislature, making March 9 an annual Utah State Flag day. [0]",
+        "meaning": "A bald eagle, the national bird of the United States, symbolizes protection in peace and war. The sego lily, the state flower of Utah, represents peace. The state motto \"Industry\" and the beehive represent progress and hard work. The U.S. flags show Utah's support and commitment to the United States. The state name \"Utah\" appears below the beehive. The date 1847 represents the year the Mormon pioneers entered the Salt Lake Valley, while 1896 represents the year that Utah was admitted as the 45th state to the Union. [0]",
+        "ratio": "5:8",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#012D6A"
+            },{
+                "name": "yellow",
+                "hex": "#FFC324"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#E51837"
+            },{
+                "name": "brown",
+                "hex": "#904B2E"
+            },{
+                "name": "green",
+                "hex": "#00853E"
+            }
+        ],
+        "design": "The Utahn coat of arms encircled in a golden circle with the number \"1896\" written in white text with Arabic numerals, on a field of dark navy blue. [0]",
+        "adoptionDate": 2011,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Utah"
+        ]
+    }
+    ,{
+        "name": "Vermont",
+        "category": "Country Subdivisions",
+        "history": "The Vermont General Assembly adopted the current flag on June 1, 1923.\n\nMultiple versions of the flag have been included throughout history. Originally, the flag was the same as the flag of the Green Mountain Boys. It was then changed to look similar to the flag of the United States, consisting of red and white stripes, and a blue canton. It was changed to be dissimilar to avoid confusion. Proposals have been brought up to revert the flag back to the Green Mountain Boys' flag, but none have succeeded. [0]",
+        "meaning": "The flag consists of the state's coat of arms and motto on a field of azure. While the pine needle supporters of the coat of arms are represented throughout New England and symbolizes the small pine branches worn at the battle of Plattsburgh near the end of the War of 1812, the pine tree in the middle of the coat of arms represents the Vermont forests. The cow and three sheaves of wheat represent the dairy and agriculture industries. The deer head on top represents Vermont's wildlife. The Green Mountains are in the background as well. The motto, \"Freedom and Unity\", is also used. The motto balances two different ideals, the freedom of the individual citizen, and the welfare of the common good. [0]",
+        "ratio": "3:5",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#003366"
+            },{
+                "name": "yellow",
+                "hex": "#FFCC33"
+            },{
+                "name": "red",
+                "hex": "#C2091D"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "brown",
+                "hex": "#C24B20"
+            }
+        ],
+        "design": "The Vermont state coat of arms on a field of azure. [0]",
+        "adoptionDate": 1923,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Vermont"
+        ]
+    }
+    ,{
+        "name": "Virginia",
+        "category": "Country Subdivisions",
+        "history": "The flag was first adopted at the beginning of the American Civil War in 1861, and standardized by the General Assembly in February 1950. The flag may be decorated with a white fringe along the fly; this is usually done when the flag is displayed indoors.\n\nIn May 1776 the Virginian colony declared its independence from Great Britain. On July 1, 1776, a committee of four was appointed to make a proper seal for the Commonwealth of Virginia. The four men were Richard Henry Lee, George Mason, George Wythe, and Robert Carter Nicholas. Four days later the committee's report for a design of the seal was read, and George Mason presented it to the Virginia government. It was voted on and approved that same day. It is not known for certain which members of the committee were chiefly responsible for the design of the seal, but it is generally believed to be principally the work of George Wythe.\n\nThe seal makers did not want a design which in any way resembled the style of coats-of-arms used in Great Britain. Because of the strong admiration for the Roman Republic felt by the Virginian leaders, the design of the new seal was taken from the mythology of Ancient Rome. [0]",
+        "meaning": "The obverse of the seal is the official seal of Virginia and is used on all the official papers and documents of the Commonwealth's government, as well as on its flag. On this side, a female figure personifying the Roman virtue of Virtus was selected to represent the genius of the new Commonwealth. Virginia's Virtus is a figure of peace, standing in a pose which indicates a battle already won. She rests on her long spear, its point turned downward to the ground. Her other weapon, a parazonium, is sheathed; it is the sword of authority rather than that of combat. Virtus is typically shown with a bare left breast; this is commonly recognized as the only use of nudity among the seals of the U.S. states.\n\nTyranny lies prostrate beneath the foot of Virtus, symbolizing Great Britain's defeat by Virginia. The royal crown which has fallen to the ground beside him symbolizes the new republic's release from the monarchical control of Great Britain; Virginia and New York are the only U.S. states with a flag or seal displaying a crown. The broken chain in Tyranny's left hand represents Virginia's freedom from Britain's restriction of colonial trade and westward expansion. The useless whip in his right hand signifies Virginia's relief from the torturing whip of acts of punishment such as the Intolerable Acts. His robe is purple, a reference to Julius Caesar and the Etruscan king of Rome, Tarquinius Priscus.\n\nThe motto selected for the obverse of the Virginia seal is Sic semper tyrannis, or in English, Thus always to tyrants. This is a derived quote from the famous events in Roman history, attributed to Brutus upon his participation in the slaying of Julius Caesar. (Caesar had been named perpetual dictator of Rome in the same year, and some Senators believed he had ambitions to abolish the Roman Republic and establish himself as a monarch.) [0]",
+        "ratio": "37:54",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#00297B"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#FF350F"
+            },{
+                "name": "green",
+                "hex": "#3F863F"
+            },{
+                "name": "yellow",
+                "hex": "#FFD93C"
+            }
+        ],
+        "design": "Obverse of the Seal of Virginia on an azure field. [0]",
+        "adoptionDate": 1950,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Virginia"
+        ]
+    }
+    ,{
+        "name": "Washington",
+        "category": "Country Subdivisions",
+        "history": "In 1914, the national society of the DAR asked the state organization to send a state flag to Washington, D.C. to be hung in the DAR Memorial Continental Hall. Finding in Olympia that there was no state flag, a committee of the DAR chaired by S.J. Chadwick, wife of the then Justice of the Supreme Court Stephen J. Chadwick worked on a flag design. The flag they designed is described as having 'a green background for the Evergreen State, upon which was the seal of the State of Washington...' The banner was used in Memorial Continental Hall and then returned to Washington in April 1916 to hang behind the speaker's table at the annual state assembly of the DAR.\n\nIn 1923, the State Legislature and Senate adopted Senate Bill 154 into law without the Governor's signature to establish the official flag of the State of Washington.\n\nIt is the only U.S. state flag with a field of green as well as the only state flag with the image of an American president. [0]",
+        "meaning": "The state seal displays an image of George Washington. [0]",
+        "ratio": "5:8",
+        "colors": [
+            {
+                "name": "green",
+                "hex": "#008457"
+            },{
+                "name": "yellow",
+                "hex": "#FFD520"
+            },{
+                "name": "blue",
+                "hex": "#34C2DE"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "black",
+                "hex": "#000000"
+            }
+        ],
+        "design": "The state seal sized at 1/3 the length of the flag centered on a field of dark green. [0]",
+        "adoptionDate": 1923,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Washington"
+        ]
+    }
+    ,{
+        "name": "West Virginia",
+        "category": "Country Subdivisions",
+        "history": "Prior to the adoption of the current state flag of West Virginia, the state had been represented by a number of flags since attaining statehood in 1863, all of which proved impractical. The first West Virginia Legislature commissioned Joseph H. Diss Debar of Doddridge County to design the Great Seal of West Virginia in 1863. On September 26, 1863, the West Virginia Legislature officially adopted the seal designed by Diss Debar, a stylized version of which was also designated the state's coat of arms. Despite the adoption of an official seal, the state did not decide upon an official state flag until 1905. [0]",
+        "meaning": "The white of the field symbolizes purity, while the blue border represents the Union. The center of the state flag is emblazoned with the state's Coat of Arms, a stylized version of the Great Seal of West Virginia. The lower half of the state flag is wreathed by two tethered swags of Rhododendron maximum, the state flower of West Virginia. Across the top of the state flag is an unfurled red ribbon with the constitutional designation \"State of West Virginia\", and across the bottom of the state flag is a tied red ribbon with the state's Latin motto Montani Semper Liberi (English: \"mountaineers are always free\").\n\nThe state's coat of arms in the center of the flag symbolizes the principal pursuits and resources of West Virginia. In the center is an ivy-draped boulder that has been inscribed \"June 20, 1863,\" the date of West Virginia's admission to the Union as a state. In front of the boulder lie two crossed hunting rifles and a Phrygian cap (or \"Cap of Liberty\") to illustrate the importance of the state's fight for liberty. Two men, a farmer and a miner, stand on either side of the boulder and represent agriculture and industry. The farmer stands on the left with an ax and plow before a cornstalk. The miner stands on the right with a pickax and, behind him, an anvil and sledge hammer. [0]",
+        "ratio": "10:19",
+        "colors": [
+            {
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "blue",
+                "hex": "#003776"
+            },{
+                "name": "red",
+                "hex": "#FF3516"
+            },{
+                "name": "green",
+                "hex": "#06884F"
+            },{
+                "name": "yellow",
+                "hex": "#FFB30F"
+            }
+        ],
+        "design": "A pure white field bordered on four sides by a stripe of blue with the coat of arms of West Virginia in the center, wreathed by Rhododendron maximum and topped by an unfurled red ribbon reading \"State of West Virginia.\" [0]",
+        "adoptionDate": 1962,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_West_Virginia"
+        ]
+    }
+    ,{
+        "name": "Wisconsin",
+        "category": "Country Subdivisions",
+        "history": "Originally designed in 1866 when regiments from Wisconsin wanted a flag for battlefield use, it wasn't until 1913 that state statutes specified the design of the state flag.\n\nIn 1941, Carl R. Eklund reported that he raised the state flag over Antarctica, at the behest of Wisconsin Governor Julius P. Heil, about 500 miles north of the south pole and 620 miles into a previously unexplored area. In 1958, Eklund flew another flag over Antarctica which he presented for display in a state museum.\n\nIn order to distinguish it from the many other blue U.S. state flags, Wisconsin's flag was modified in 1979 to add \"Wisconsin\" and \"1848\", the year Wisconsin was admitted to the Union. All Wisconsin state flags manufactured after May 1, 1981 were required to use this design. [0]",
+        "meaning": "The state seal emphasizes mining and shipping because at the time of Wisconsin's founding in 1848 the mining of lead and iron and shipping (via the Great Lakes and the Mississippi River) were major industries. [1]",
+        "ratio": "2:3",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002986"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "yellow",
+                "hex": "#FFCC18"
+            }
+        ],
+        "design": "Blue flag charged with the Wisconsin coat of arms. [0]",
+        "adoptionDate": 1981,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Wisconsin",
+            "https://en.wikipedia.org/wiki/Seal_of_Wisconsin"
+        ]
+    }
+    ,{
+        "name": "Wyoming",
+        "category": "Country Subdivisions",
+        "history": "In 1916 the Wyoming Daughters of the American Revolution (DAR) ran a contest inviting the public to submit possible designs for a Wyoming flag. A prize of $20 was offered to the winner, and the DAR received a total of 37 entries. They chose a drawing by Verna Keays, a recent graduate of the Art Institute of Chicago. On January 31, 1917, Governor Robert D. Carey signed the state flag bill into law and the bison flag was officially adopted.\n\nDAR regent Grace Raymond Hebard, a professor at the University of Wyoming and noted suffragist and scholar, contributed suggestions for changes after the design had been accepted. In Keays' original design, the one approved by Wyoming's legislature, the bison faces toward the fly, symbolizing its former freedom to roam the plains of Wyoming. Hebard thought that if the bison were to face toward the hoist, the design would be more balanced (animals generally face the hoist on flags, as they would the wind). In the end, all Wyoming flags from the first batch produced onward showed the bison facing the hoist, although this change was never officially adopted by the Wyoming legislature. [0]",
+        "meaning": "The red symbolizes the Native Americans and the blood of pioneers who gave their lives. The white is a symbol of purity and uprightness. The blue is the color of the skies and distant mountains. It is also a symbol of fidelity, justice and virility. The bison represents the local fauna while the seal on it symbolizes the custom of branding livestock. [0]",
+        "ratio": "7:10",
+        "colors": [
+            {
+                "name": "blue",
+                "hex": "#002868"
+            },{
+                "name": "white",
+                "hex": "#FFFFFF"
+            },{
+                "name": "red",
+                "hex": "#BF0A30"
+            }
+        ],
+        "design": "Blue field surronded by white and red and charged with a white silouhette of an American Bison and the state seal.",
+        "adoptionDate": 1917,
+        "related": {
+            "country": [
+                "United States"
+            ]
+        },
+        "sources": [
+            "https://en.wikipedia.org/wiki/Flag_of_Wyoming"
+        ]
+    }
+]

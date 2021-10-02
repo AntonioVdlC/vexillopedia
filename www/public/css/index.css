@@ -1,0 +1,37 @@
+/* Section Titles */
+.section-title {
+    display: block;
+    text-align: center;
+}
+
+/*  Welcome */
+.welcome {
+    text-align: center;
+    margin-bottom: 4em;
+}
+.welcome-title {
+    font-size: 1.5em;
+    font-weight: normal;
+    margin-bottom: 0em;
+}
+
+/* Search */
+.search {
+    text-align: center;
+}
+.search-input {
+    width: 75%;
+    margin-bottom: 2.5em;
+}
+
+/* Or */
+.or {
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;  
+}
+
+/* Categories */
+.categories {
+    text-align: center;
+}
